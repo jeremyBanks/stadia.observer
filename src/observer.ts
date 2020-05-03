@@ -1,73 +1,126 @@
 (async () => {})()
-  .then(() => main())
+  .then(async () => {
+    console.clear();
+    const spider = new Spider();
+    console.debug(spider);
+    await spider.main();
+    return spider;
+  })
   .catch((error) => console.error(error));
 
-const players: Record<Player["playerId"], Player> = {};
-const products: Record<Product["sku"], Product> = {};
+const playerId = "956082794034380385";
+const applicationId = "a4c5eb3f4e614b7fadbba64cba68f849rcp1";
+const gameSku = "71e7c4fc5ca24f0f8301da6d042bf18e";
 
-const main = async () => {
-  console.clear();
-  const homePage = await fetchPreloadData("/home");
-  // const me = Player.fromProto(
-  //   homePage[2]?.[5] ?? homePage[5]?.[5] ?? homePage[4]?.[5]
-  // );
-  // const myGames = homePage[8]?.[0].map((x) => x[1]).map(Game.fromProto);
+type Proto = Array<Proto | number | string | boolean | null> | Array<any>;
 
-  const storeGamesPage = await fetchPreloadData("/store/list/3");
-  const storeProDealsPage = await fetchPreloadData("/store/list/45");
+class Spider {
+  public async main() {
+    await this.loadHome();
+    await this.loadStoreList(3);
+    await this.loadStoreList(45);
+    await this.loadPlayerProfile(playerId);
+    await this.loadPlayerGame(playerId, gameSku);
+    await this.loadStoreProduct(applicationId, gameSku);
+    this.download();
+  }
 
-  // const allGames = storeGamesPage[1][2].map((x) => x[9]).map(Game.fromProto);
-  // const proDeals = storeProDealsPage[1][2]
-  //   .map((x) => x[9])
-  //   .map(ProductBase.fromProto);
+  public constructor(
+    private players: Record<Player["playerId"], Player> = {},
+    private products: Record<Product["sku"], Product> = {},
+    private spideredSkus: Record<Product["sku"], true> = {}
+  ) {}
 
-  const playerActivityPage = await fetchPreloadData(
-    "/profile/956082794034380385/gameactivities/all"
-  );
+  private loadPlayer(data: Proto): Player {
+    const player = new Player(
+      data[5],
+      data[0][0],
+      data[0][1],
+      data[3],
+      data[1][0],
+      data[1][1]
+    );
+    const previous = this.players[player.playerId];
+    return (this.players[player.playerId] = previous
+      ? Object.assign(previous, player)
+      : player);
+  }
 
-  const gameProfilePage = await fetchPreloadData(
-    "/profile/956082794034380385/detail/a4c5eb3f4e614b7fadbba64cba68f849rcp1"
-  );
+  private loadProduct(data: Proto): Product {
+    const productTypeId = data[6];
+    const product =
+      productTypeId === 1
+        ? new Game(data[4], data[0], "game", data[1], data[5], data[9])
+        : productTypeId === 2
+        ? new AddOn(data[4], data[0], "addon", data[1])
+        : productTypeId === 3
+        ? new Bundle(
+            data[4],
+            data[0],
+            "bundle",
+            data[1],
+            data[14][0].map((x) => x[0])
+          )
+        : (new BaseProduct(
+            data[4],
+            data[0],
+            productTypeId,
+            data[1]
+          ) as Product);
+    const previous = this.products[product.sku];
+    return (this.products[product.sku] = previous
+      ? Object.assign(previous, product)
+      : product);
+  }
 
-  const gameProductPage = await fetchPreloadData(
-    "/store/details/a4c5eb3f4e614b7fadbba64cba68f849rcp1/sku/71e7c4fc5ca24f0f8301da6d042bf18e"
-  );
-  // const gameBundles = gameProductPage[5][1]
-  //   .map((x) => x[6])
-  //   .map(ProductBase.fromProto);
-  // const gameAddons = gameProductPage[6][0]
-  //   .map((x) => x[9])
-  //   .map(ProductBase.fromProto);
+  private async loadHome() {
+    const page = await fetchPreloadData("/home");
+  }
 
-  const pages = {
-    homePage,
-    storeGamesPage,
-    playerActivityPage,
-    gameProfilePage,
-    gameProductPage,
-  };
+  private async loadStoreList(number: number) {
+    const page = await fetchPreloadData(`/store/list/${number}`);
+  }
 
-  console.log({ pages, players, products });
+  private async loadStoreProduct(applicationId: string, sku: string) {
+    const page = await fetchPreloadData(`
+    "/store/details/${applicationId}/sku/${sku}"`);
+  }
 
-  const a = Object.assign(document.createElement("a"), {
-    download: "data.json",
-    href: URL.createObjectURL(
-      new Blob([JSON.stringify(products, null, 2)], {
+  private async loadPlayerProfile(playerId: string) {
+    const page = await fetchPreloadData(
+      `/profile/${playerId}/gameactivities/all`
+    );
+  }
+
+  private async loadPlayerGame(playerId: string, applicationId: string) {
+    const page = await fetchPreloadData(
+      `/profile/${playerId}/detail/${applicationId}`
+    );
+  }
+
+  public download() {
+    const json = JSON.stringify(this, null, 2);
+    const href = URL.createObjectURL(
+      new Blob([json], {
         type: "application/octet-stream",
       })
-    ),
-  });
-  document.body.appendChild(a);
-  a.click();
-  document.body.removeChild(a);
-};
+    );
+    const el = Object.assign(document.createElement("a"), {
+      download: "data.json",
+      href,
+    });
+    document.body.appendChild(el);
+    el.click();
+    document.body.removeChild(el);
+  }
+}
 
 const requestLabels = {
   "PtnQCd[]": "activeSubscriptions",
   "Qc7K6[]": "ownedGames",
   "LV6ate[]": "currentPlayer",
   "CmnEcf[[3]]": "alsoCurrentPlayer",
-  "WwD3rb": "productList",
+  WwD3rb: "productList",
   "WwD3rb[3]": "allGames",
   "WwD3rb[45]": "stadiaProDeals",
   "T9Kmu[]": "recentCaptures",
@@ -86,54 +139,19 @@ class Player {
     readonly somename = "JEREMY",
     readonly avatarId = "s00056",
     readonly avatarUrl = "https://www.gstatic.com/stadia/gamers/avatars/mdpi/avatar_56.png"
-  ) {
-    players[`${this.somename}_${this.playerId}`] = this;
-  }
-
-  static fromProto(data: Array<any>): Player {
-    return new Player(
-      data[5],
-      data[0][0],
-      data[0][1],
-      data[3],
-      data[1][0],
-      data[1][1]
-    );
-  }
+  ) {}
 }
 
-class ProductBase {
+class BaseProduct {
   constructor(
     readonly appId = "a4c5eb3f4e614b7fadbba64cba68f849rcp1",
     readonly sku = "71e7c4fc5ca24f0f8301da6d042bf18e",
     readonly productType: "game" | "addon" | "bundle" = "game",
     readonly name = "PLAYERUNKNOWN'S BATTLEGROUNDS"
-  ) {
-    products[`${this.sku}`] = this as Product;
-  }
-
-  static fromProto(data: Array<any>): Product {
-    if (data[6] === 1) {
-      return new Game(data[4], data[0], "game", data[1], data[5], data[9]);
-    } else if (data[6] === 2) {
-      return new AddOn(data[4], data[0], "addon", data[1]);
-    } else if (data[6] === 3) {
-      return new Bundle(
-        data[4],
-        data[0],
-        "bundle",
-        data[1],
-        data[14][0].map((x) => x[0])
-      );
-    } else {
-      throw new Error(
-        `unexpected product type id ${JSON.stringify(data, null, 4)}`
-      );
-    }
-  }
+  ) {}
 }
 
-class Game extends ProductBase {
+class Game extends BaseProduct {
   constructor(
     readonly appId = "a4c5eb3f4e614b7fadbba64cba68f849rcp1",
     readonly sku = "71e7c4fc5ca24f0f8301da6d042bf18e",
@@ -146,7 +164,7 @@ class Game extends ProductBase {
   }
 }
 
-class Bundle extends ProductBase {
+class Bundle extends BaseProduct {
   constructor(
     readonly appId = "a4c5eb3f4e614b7fadbba64cba68f849rcp1",
     readonly sku = "71e7c4fc5ca24f0f8301da6d042bf18e",
@@ -158,7 +176,7 @@ class Bundle extends ProductBase {
   }
 }
 
-class AddOn extends ProductBase {
+class AddOn extends BaseProduct {
   constructor(
     readonly appId = "a4c5eb3f4e614b7fadbba64cba68f849rcp1",
     readonly sku = "71e7c4fc5ca24f0f8301da6d042bf18e",
@@ -199,7 +217,7 @@ const fetchPreloadData = async (
     )
     .map((requests) =>
       Object.fromEntries(
-        Object.entries(requests).map(([key, value]) => [
+        Object.entries(requests).map(([key, value]: any) => [
           key,
           value.id + JSON.stringify(value.request),
         ])
