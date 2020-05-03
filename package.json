@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "build": "rm -rf dist/* && tsc && tsc --outFile dist/all.js --target es2015 --module amd && prettier --write src dist"
+    "build": " prettier --write src && rm -rf dist/* && tsc && prettier --write dist"
   },
   "devDependencies": {
     "prettier": "^2.0.5",
