@@ -16,20 +16,66 @@ type Proto = Array<Proto | number | string | boolean | null> | Array<any>;
 
 class Spider {
   public async main() {
-    await this.loadHome();
-    await this.loadStoreList(3);
-    await this.loadStoreList(45);
-    await this.loadPlayerProfile(playerId);
-    await this.loadPlayerGame(playerId, gameSku);
-    await this.loadStoreProduct(applicationId, gameSku);
+    await this.loadSeedPages();
+    await this.spiderAll();
     this.download();
   }
 
   public constructor(
     private players: Record<Player["playerId"], Player> = {},
     private products: Record<Product["sku"], Product> = {},
-    private spideredSkus: Record<Product["sku"], true> = {}
+    private knownSkus: Record<Product["sku"], true> = {}, 
+    private spideredSkus: Record<Product["sku"], true> = {},
   ) {}
+
+  /// Loads data from some initial pages from which we should be able to find all SKUs.
+  private async loadSeedPages() {
+    await this.loadHome();
+    await this.loadStoreList(3);
+    await this.loadStoreList(45);
+    await this.loadPlayerProfile(playerId);
+    await this.loadPlayerGame(playerId, gameSku);
+    await this.loadStoreProduct(applicationId, gameSku);
+  }
+
+  /// Spiders product pages for every known SKU.
+  /// TODO: also players?
+  private async spiderAll() {
+    while (this.knownSkus.size < this.spideredSkus.size) {
+      let next: string;
+      for (const candidate of Object.keys(this.knownSkus)) {
+        if (!this.spideredSkus.hasOwnProperty(candidate)) {
+          next = candidate;
+          break;
+        }
+      }
+
+      // I can't spider without also knowing the app ID?
+      // Which I should?
+      await this.loadProductPage();
+      this.spideredSkus[next] = true;
+    }
+
+  }
+
+  /// Downloads a JSON file with all loaded data.
+  public download() {
+    const json = JSON.stringify({
+      products: this.products,
+    }, null, 2);
+    const href = URL.createObjectURL(
+      new Blob([json], {
+        type: "application/octet-stream",
+      })
+    );
+    const el = Object.assign(document.createElement("a"), {
+      download: "data.json",
+      href,
+    });
+    document.body.appendChild(el);
+    el.click();
+    document.body.removeChild(el);
+  }
 
   private loadPlayer(data: Proto): Player {
     const player = new Player(
@@ -92,28 +138,23 @@ class Spider {
     );
   }
 
-  private async loadPlayerGame(playerId: string, applicationId: string) {
+  private async loadAchivements(applicationId: string, playerId?: string) {
     const page = await fetchPreloadData(
-      `/profile/${playerId}/detail/${applicationId}`
+      playerId
+        ? `/profile/${playerId}/detail/${applicationId}`
+        : `/profile/detail/${applicationId}`
     );
-  }
-
-  public download() {
-    const json = JSON.stringify(this, null, 2);
-    const href = URL.createObjectURL(
-      new Blob([json], {
-        type: "application/octet-stream",
-      })
-    );
-    const el = Object.assign(document.createElement("a"), {
-      download: "data.json",
-      href,
-    });
-    document.body.appendChild(el);
-    el.click();
-    document.body.removeChild(el);
   }
 }
+
+const data = new FormData();
+const rpcId = 'PtnQCd';
+data.append("f.req", `[[[${JSON.stringify(rpcId)},${JSON.stringify([])},null,"1"]]`);
+data.append('at', 'ANnLpDWTb0fB1GMd8PEl9WA0Utou:1588525434901');
+fetch('/_/CloudcastPortalFeWebUi/data/batchexecute?rpcids=PtnQCd&bl=boq_cloudcastportalfeuiserver_20200429.06_p1&hl=en&soc-app=760&soc-platform=1&soc-device=1&_reqid=1247146&rt=c', {
+  method: 'POST',
+  body: data,
+}).then(r => r.text()).then(x => console.log(x));
 
 const requestLabels = {
   "PtnQCd[]": "activeSubscriptions",
@@ -129,6 +170,8 @@ const requestLabels = {
   FLCvtc: "bundles",
   Qc7K6: "addons",
   ZAm7We: "product",
+  D0Amud: "main",
+  e7h9qd: "friendsWhoPlay",
 };
 
 class Player {
@@ -163,6 +206,12 @@ class Game extends BaseProduct {
     super(appId, sku, productType, name);
   }
 }
+
+class GameAchievements {
+  constructor(readonly appId = "a4c5eb3f4e614b7fadbba64cba68f849rcp1") {}
+}
+
+class Achievements {}
 
 class Bundle extends BaseProduct {
   constructor(
