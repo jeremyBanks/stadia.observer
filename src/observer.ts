@@ -8,18 +8,18 @@ const products: Record<Product["sku"], Product> = {};
 const main = async () => {
   console.clear();
   const homePage = await fetchPreloadData("/home");
-  const me = Player.fromProto(
-    homePage[2]?.[5] ?? homePage[5]?.[5] ?? homePage[4]?.[5]
-  );
-  const myGames = homePage[8]?.[0].map((x) => x[1]).map(Game.fromProto);
+  // const me = Player.fromProto(
+  //   homePage[2]?.[5] ?? homePage[5]?.[5] ?? homePage[4]?.[5]
+  // );
+  // const myGames = homePage[8]?.[0].map((x) => x[1]).map(Game.fromProto);
 
   const storeGamesPage = await fetchPreloadData("/store/list/3");
   const storeProDealsPage = await fetchPreloadData("/store/list/45");
 
-  const allGames = storeGamesPage[1][2].map((x) => x[9]).map(Game.fromProto);
-  const proDeals = storeProDealsPage[1][2]
-    .map((x) => x[9])
-    .map(ProductBase.fromProto);
+  // const allGames = storeGamesPage[1][2].map((x) => x[9]).map(Game.fromProto);
+  // const proDeals = storeProDealsPage[1][2]
+  //   .map((x) => x[9])
+  //   .map(ProductBase.fromProto);
 
   const playerActivityPage = await fetchPreloadData(
     "/profile/956082794034380385/gameactivities/all"
@@ -44,13 +44,10 @@ const main = async () => {
     storeGamesPage,
     playerActivityPage,
     gameProfilePage,
-    myGames,
-    allGames,
     gameProductPage,
   };
-  console.log(pages);
 
-  console.log({ players, products });
+  console.log({ pages, players, products });
 
   const a = Object.assign(document.createElement("a"), {
     download: "data.json",
@@ -63,6 +60,22 @@ const main = async () => {
   document.body.appendChild(a);
   a.click();
   document.body.removeChild(a);
+};
+
+const requestLabels = {
+  "PtnQCd[]": "activeSubscriptions",
+  "Qc7K6[]": "ownedGames",
+  "LV6ate[]": "currentPlayer",
+  "CmnEcf[[3]]": "alsoCurrentPlayer",
+  "WwD3rb": "productList",
+  "WwD3rb[3]": "allGames",
+  "WwD3rb[45]": "stadiaProDeals",
+  "T9Kmu[]": "recentCaptures",
+  Q6jt8c: "thisPlayer",
+  GRn9Gb: "myGames",
+  FLCvtc: "bundles",
+  Qc7K6: "addons",
+  ZAm7We: "product",
 };
 
 class Player {
@@ -160,7 +173,7 @@ type Product = Game | Bundle | AddOn;
 
 const fetchPreloadData = async (
   url: string = "https://stadia.google.com/"
-): Promise<Array<Array<any>>> => {
+): Promise<Record<string, Array<any>>> => {
   // TODO: index by AF_dataServiceRequests
   await new Promise((resolve) =>
     setTimeout(resolve, Math.random() * 3500 + 1500)
@@ -170,11 +183,55 @@ const fetchPreloadData = async (
   const document = new DOMParser().parseFromString(html, "text/html");
   const scripts = Array.from(document.scripts);
   const contents = scripts.map((s) => s.textContent.trim()).filter(Boolean);
+
+  const dataServiceRequestsPattern = /^var *AF_initDataKeys[^]*?var *AF_dataServiceRequests *= *({[^]*}); *?var /;
+
+  const dataServiceRequests = contents
+    .map((s) => s.match(dataServiceRequestsPattern))
+    .filter(Boolean)
+    .map((matches) =>
+      JSON.parse(
+        matches[1]
+          .replace(/{id:/g, '{"id":')
+          .replace(/,request:/g, ',"request":')
+          .replace(/'/g, '"')
+      )
+    )
+    .map((requests) =>
+      Object.fromEntries(
+        Object.entries(requests).map(([key, value]) => [
+          key,
+          value.id + JSON.stringify(value.request),
+        ])
+      )
+    )[0];
+
   const dataCallbackPattern = /^ *AF_initDataCallback *\( *{ *key *: *'([^]*?)' *,[^]*?data: *function *\( *\){ *return *([^]*)\s*}\s*}\s*\)\s*;?\s*$/;
   const dataServiceLoads = contents
     .map((s) => s.match(dataCallbackPattern))
     .filter(Boolean)
     .map((matches) => JSON.parse(matches[2]));
-  console.debug(url, dataServiceLoads);
-  return dataServiceLoads;
+
+  const preloadedData = Object.fromEntries(
+    Object.entries(dataServiceLoads)
+      .map(([key, value]) => [
+        ["_" + key, value],
+        [dataServiceRequests["ds:" + key], value],
+      ])
+      .flat()
+      .map(([key, value]) => [
+        [key, value],
+        [key.split("[")[0], value],
+      ])
+      .flat()
+      .map(([key, value]) => [
+        [key, value],
+        [requestLabels[key] || key, value],
+      ])
+      .flat()
+  );
+
+  console.debug(url, preloadedData);
+
+  return preloadedData;
 };
