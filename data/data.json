@@ -1,0 +1,596 @@
+{
+  "products": {
+    "PUBGBATTLEGROUNDS01_71e7c4fc5ca24f0f8301da6d042bf18e": {
+      "appId": "a4c5eb3f4e614b7fadbba64cba68f849rcp1",
+      "sku": "71e7c4fc5ca24f0f8301da6d042bf18e",
+      "productType": "game",
+      "name": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+      "somename": "PUBGBATTLEGROUNDS01",
+      "description": "This is Battle Royale. Land, loot and outwit your opponents to become the last player left standing in a thrilling game experience full of unexpected, adrenaline-pumping moments. For more information, please visit www.pubg.com."
+    },
+    "15000000_c86bd12f279741a8b8c9c522845c7fa9": {
+      "appId": "42503ac2cfcf40018c15c86b86a5508drcp1",
+      "sku": "c86bd12f279741a8b8c9c522845c7fa9",
+      "productType": "game",
+      "name": "Tomb Raider: Definitive Edition",
+      "somename": "15000000",
+      "description": "Tomb Raider explores the intense and gritty origin story of Lara Croft and her ascent from a young woman to a hardened survivor.  Armed only with raw instincts and the ability to push beyond the limits of human endurance, Lara must fight to unravel the dark history of a forgotten island to escape its relentless hold."
+    },
+    "15001000_f5562aaf93cb46e081d317263bde3013": {
+      "appId": "e5c6ec7bf437491ea4ac0917df8f9640rcp1",
+      "sku": "f5562aaf93cb46e081d317263bde3013",
+      "productType": "game",
+      "name": "Rise of the Tomb Raider: 20 Year Celebration",
+      "somename": "15001000",
+      "description": "Rise of the Tomb Raider: 20 Year Celebration includes the base game and Season Pass featuring all-new content. Explore Croft Manor in the new \"Blood Ties\" story, then defend it against a zombie invasion in \"Lara’s Nightmare\". Survive extreme conditions with a friend in the new online Co-Op Endurance mode, and brave the new \"Extreme Survivor\" difficulty. Also features an outfit and weapon inspired by Tomb Raider III, and 5 classic Lara skins."
+    },
+    "game_9ac5597c3f4a4e648c9ae56bac3d1b32": {
+      "appId": "18a3cc2bb111419c8ac873086d04dfaarcp1",
+      "sku": "9ac5597c3f4a4e648c9ae56bac3d1b32",
+      "productType": "game",
+      "name": "GYLT",
+      "somename": "game",
+      "description": "Face your fears in GYLT, a haunting tale about bullying and childhood nightmares, as you help Sally navigate a creepy world to rescue her missing cousin Emily. GYLT is available only on Stadia!"
+    },
+    "metro_exodus_8ca5e97f091e4f7fbfcf8069ba850b1f": {
+      "appId": "879d82512f5441829250ead1aa678a70rcp1",
+      "sku": "8ca5e97f091e4f7fbfcf8069ba850b1f",
+      "productType": "game",
+      "name": "Metro Exodus",
+      "somename": "metro_exodus",
+      "description": "Metro Exodus is an epic, story-driven first person shooter from 4A Games that blends deadly combat and stealth with exploration and survival horror in one of the most immersive game worlds ever created. Flee the shattered ruins of dead Moscow and embark on an epic, continent-spanning journey across post-apocalyptic Russia in the greatest Metro adventure yet. Explore the Russian wilderness in vast, non-linear levels and follow a thrilling story-line inspired by the novels of Dmitry Glukhovsky that spans an entire year through spring, summer and autumn to the depths of nuclear winter."
+    },
+    "game_f47a1e1e9f0b43078e0a80c57068b085": {
+      "appId": "819cdf4b7ff94947941106571ccf41e5rcp1",
+      "sku": "f47a1e1e9f0b43078e0a80c57068b085",
+      "productType": "game",
+      "name": "SteamWorld Heist",
+      "somename": "game",
+      "description": "In SteamWorld Heist, you command a steam-driven pirate crew in a series of epic tactical shootouts. It’s turn-based strategy with a twist: You manually aim the guns of your robots, allowing for insane skill shots and bullet-bouncing action! As the captain you will board, loot and shoot your way through enemy spaceships. Overcome the challenges of the vast frontier by upgrading your recruits with unique abilities, weapons – and even stylish hats!"
+    },
+    "game_a1afa4eca7b24713a9bcf3421dd85a13": {
+      "appId": "b845605f8eb447008f3f0d2295265ffdrcp1",
+      "sku": "a1afa4eca7b24713a9bcf3421dd85a13",
+      "productType": "game",
+      "name": "SteamWorld Quest: Hand of Gilgamech",
+      "somename": "game",
+      "description": "Triumph over evil with the hand you’re dealt! SteamWorld Quest is the roleplaying card game you’ve been waiting for! Lead a party of aspiring heroes through a beautifully hand-drawn world and intense battles using only your wits and a handful of cards. Take on whatever threat comes your way by crafting your own deck choosing from over 100 unique punch-cards! What awaits you is a luscious treasure chest filled with gold, dragons, vivid worlds, magic, knights in shining armor as well as XP, turn-based battles and all that good RPG stuff! The game’s humorous mix of traditional fantasy and steampunk robots makes for an unforgettable experience with lots of laughs."
+    },
+    "game_e8ed70244808408cbb7d3b2b1f06547f": {
+      "appId": "cfd2977e1b9f412387ca2f44848400acrcp1",
+      "sku": "e8ed70244808408cbb7d3b2b1f06547f",
+      "productType": "game",
+      "name": "The Turing Test",
+      "somename": "game",
+      "description": "The Turing Test is a challenging first-person puzzle game set on Jupiter’s moon, Europa. You are Ava Turing, an engineer for the International Space Agency (ISA) sent to discover the cause behind the disappearance of the ground crew stationed there. Upon arrival a series of puzzles awaits you – tests which, according to the station’s AI, Tom, can only be solved by a human. These puzzles have apparently been set by the missing ground crew – but why have they created them and what are they hiding from?"
+    },
+    "ZombieArmy4_a7b1581491ea4b7c9fcc89710561f5f7": {
+      "appId": "cba537cccfe3470b8784f88660ea5f09rcp1",
+      "sku": "a7b1581491ea4b7c9fcc89710561f5f7",
+      "productType": "game",
+      "name": "Zombie Army 4: Dead War",
+      "somename": "ZombieArmy4",
+      "description": "Hitler’s hordes are back for more in this spine-chilling shooter! Occult enemies, epic weapons and a new campaign for 1-4 players await, as you fight to save humankind from undead Armageddon!"
+    },
+    "game_90f5bd9270024986b26ee8221c1fa2e4": {
+      "appId": "b832835182124d4d83cb76a74a76a33frcp1",
+      "sku": "90f5bd9270024986b26ee8221c1fa2e4",
+      "productType": "game",
+      "name": "SteamWorld Dig 2",
+      "somename": "game",
+      "description": "SteamWorld Dig 2 takes you on a platform mining adventure forged in Metroidvania flames. When an old trading town is struck by mysterious earthquakes, it’s up to a lone steambot and her unlikely companion to uncover what trembling terrors lie beneath."
+    },
+    "5f4901cff40e4ceeaaac44858fbcd1a3pjp1_f16b28e2fd224acaafeee4c19134adb4": {
+      "appId": "921e9afe46aa478fb4aa929a7b1a6bd5rcp1",
+      "sku": "f16b28e2fd224acaafeee4c19134adb4",
+      "productType": "game",
+      "name": "Spitlings",
+      "somename": "5f4901cff40e4ceeaaac44858fbcd1a3pjp1",
+      "description": "You know what the problem with multiplayer games is, right? The other players! It’s always THEIR FAULT if you lose! We’ve got the perfect game to blame your friends for their incapability: Spitlings! This chaotic action arcade game for up to four players is a modern take on the hardcore classics. You’re in control of a Spitling, a charming rectangular creature with teeth it can spit or use to jump! Makes no sense? Who cares, it’s FUN! Spitlings is a cute but hardcore Arcade game that’s made for playing its hundreds of levels locally/online with friends. Keep playing to unlock new music tracks, unique characters to play with and intense visual themes for certain levels."
+    },
+    "SoSoS_Game_7ed521aacf2a44168fb99cd1e13472ad": {
+      "appId": "15a067411b8d4429b0954434d8f05d48rcp1",
+      "sku": "7ed521aacf2a44168fb99cd1e13472ad",
+      "productType": "game",
+      "name": "Stacks On Stacks (On Stacks)",
+      "somename": "SoSoS_Game",
+      "description": "Stacks On Stacks (On Stacks) is a zany 3D tower builder. Play as the Master Stacker, Rockit, who must use her psychic helmet to stack the colorful bricks falling all over her madcap world. BUILD stable towers by executing architectural feats of balancing. INCORPORATE mixed-up materials into your towers: works of art, aquariums, magnets, and more. DEFEND your towers against invading ghosts, a fireball-breathing dragon, and other outlandish hazards. KNOCK your finished towers back down with a wrecking ball."
+    },
+    "70000001_4950959380034dcda0aecf98f675e11f": {
+      "appId": "20e792017ab34ad89b70dc17a5c72d68rcp1",
+      "sku": "4950959380034dcda0aecf98f675e11f",
+      "productType": "game",
+      "name": "Destiny 2",
+      "somename": "70000001",
+      "description": "Dive into the world of Destiny 2 to experience responsive FPS combat, explore the mysteries of our solar system, and unleash elemental abilities against powerful enemies. Experience Destiny 2’s cinematic story alone or with friends, join other Guardians for challenging co-op missions, or compete against them in a variety of PvP modes. See below for loot box odds."
+    },
+    "game_45918155e78145af937b5df1a574afd2": {
+      "appId": "cabec52b78264dafac69011aeacd5753rcp1",
+      "sku": "45918155e78145af937b5df1a574afd2",
+      "productType": "game",
+      "name": "Serious Sam Collection",
+      "somename": "game",
+      "description": "Step into the shoes of the legendary action hero Sam \"Serious\" Stone and experience one of the most explosive shooter game series of all time, as you save the world from a merciless alien invasion."
+    },
+    "game_bed63eac149542078fa5b9d6f20f5f2f": {
+      "appId": "d43cd46c81734ca48e1a615310d0237crcp1",
+      "sku": "bed63eac149542078fa5b9d6f20f5f2f",
+      "productType": "game",
+      "name": "The Division 2 - Standard Edition",
+      "somename": "game",
+      "description": "HISTORY WILL REMEMBER. In The Division 2, the fate of the free world is on the line. Lead a team of elite agents into a post-pandemic Washington DC to restore order and prevent the collapse of the city. The Division 2 is an online, action shooter RPG experience, where exploration and player-progression are essential. Liberate Washington DC – Save a country on the brink of collapse as you explore an open, dynamic and hostile world. Stronger with your team – Specialize and fight together with your friends in online co-op or against others in competitive adversial PVP mode. Genre-defining endgame – Choose a unique class specialization to take on the toughest challenges with friends."
+    },
+    "KineGame_8d3124a81f6444219acd3d99c90a5658": {
+      "appId": "da94f3aa88b24eb6ae6fdff798f73355rcp1",
+      "sku": "8d3124a81f6444219acd3d99c90a5658",
+      "productType": "game",
+      "name": "Kine",
+      "somename": "KineGame",
+      "description": "Kine is a 3D narrative puzzle game about three daring machines that aspire to be musicians. Embark across a theatrical dreamscape by solving a wide variety of increasingly difficult 3D puzzles. Guide Euler, Quat, and Roo as they struggle to form a band, build bonds, and find their big break!"
+    },
+    "GRID_Standard_Edition_75be643ff0fb40d7873fa41edb10d98a": {
+      "appId": "ca805d3d37404654a91d2ea62fad7bd4rcp1",
+      "sku": "75be643ff0fb40d7873fa41edb10d98a",
+      "productType": "game",
+      "name": "GRID",
+      "somename": "GRID_Standard_Edition",
+      "description": "GRID is a racing experience like no other. Offering unrivalled wheel-to-wheel racing for everyone, where every race is unpredictable as you create rivals and nemeses on your road to conquering the world of motorsport. Play now and get your heart racing."
+    },
+    "thumper_6e98f34bbcae444a99816b8f2613452b": {
+      "appId": "c121d8b3fa744b52b71bf3599cb3da7frcp1",
+      "sku": "6e98f34bbcae444a99816b8f2613452b",
+      "productType": "game",
+      "name": "Thumper",
+      "somename": "thumper",
+      "description": "Thumper is rhythm violence: classic rhythm-action, blistering speed, and brutal physicality. You are a space beetle. Brave the hellish void and confront a maniacal giant head from the future."
+    },
+    "15100000_1611bf48ac784869bcbd1ce85bc71add": {
+      "appId": "a447622dbe084c3e9ace4f913a939afarcp1",
+      "sku": "1611bf48ac784869bcbd1ce85bc71add",
+      "productType": "game",
+      "name": "FINAL FANTASY XV",
+      "somename": "15100000",
+      "description": "Take the journey, now in ultimate quality. Boasting a wealth of bonus content and supporting ultra high-resolution graphical options and HDR 10, you can now enjoy the beautiful and carefully-crafted experience of FINAL FANTASY XV like never before."
+    },
+    "fs19_c50094b71d054fc28f3116245d9dbc9a": {
+      "appId": "ebf235012b054269af70eee901bc85cfrcp1",
+      "sku": "c50094b71d054fc28f3116245d9dbc9a",
+      "productType": "game",
+      "name": "Farming Simulator 19",
+      "somename": "fs19",
+      "description": "In Farming Simulator 19 you’ll take control of vehicles and machines faithfully recreated from all the leading brands in the industry, including John Deere, Case IH, New Holland, Challenger, Fendt, Massey Ferguson, Valtra, Krone, Deutz-Fahr and many more. Explore new American and European environments in which to develop and expand your farm. Enjoy many exciting new farming activities, including new machinery and crops with cotton and oat! Tend to your livestock of pigs, cows, sheep, and chickens - or ride your horses for the first time."
+    },
+    "game_888a817c35b5439bb6a03a78ab09e138": {
+      "appId": "120348c2707740b99b509fad49a2f45drcp1",
+      "sku": "888a817c35b5439bb6a03a78ab09e138",
+      "productType": "game",
+      "name": "SAMURAI SHODOWN (Standard Ver.)",
+      "somename": "game",
+      "description": "Description: This is SAMURAI SHODOWN’s main game.  SAMURAI SHODOWN has enjoyed worldwide success as a blade-wielding fighting game series since its first release in 1993.  11 years have passed since the last series installment, and it is now time for SAMURAI SHODOWN to return in a brand-new game featuring high-end visuals and gameplay!  Faithfully reproducing the game mechanics and atmosphere that contributed to the success of the series, SAMURAI SHODOWN includes a revolutionary feature that learns players’ game actions and patterns in order to create CPU-controlled “ghost” characters.  With its story set one year before the very first installment, warriors and combatants from various backgrounds and with their own goals are about to battle to fulfill their destinies!"
+    },
+    "game_bundle_ultimate_2868c83c2411473282074a6fe5dbfc85": {
+      "appId": "8b7e7f7036e5483eaa8745d46248536crcp1",
+      "sku": "2868c83c2411473282074a6fe5dbfc85",
+      "productType": "game",
+      "name": "Assassin's Creed Odyssey - Stadia Ultimate Edition",
+      "somename": "game_bundle_ultimate",
+      "description": "Upgrade your experience with the Stadia Ultimate edition, which includes Assassin's Creed Odyssey, the Blind King Quest, the Stadia Season Pass, the Herald of Dusk Pack (featuring 5 rare pieces of armour and a rare weapon), the Capricornus Naval Pack (featuring a ship design and crew theme), a temporary XP Boost, a Temporary Drachmae Boost , and the Kronos Pack, featuring 5 epic pieces of armour, an epic weapon, and an epic mount. Choose your fate in Assassin's Creed Odyssey. From outcast to living legend, embark on an odyssey to uncover the secrets of your past and change the fate of Ancient Greece."
+    },
+    "game_6760aad6e75b4edc9686c48e8dd38936": {
+      "appId": "8b7e7f7036e5483eaa8745d46248536crcp1",
+      "sku": "6760aad6e75b4edc9686c48e8dd38936",
+      "productType": "game",
+      "name": "Assassin's Creed® Odyssey",
+      "somename": "game",
+      "description": "Choose your fate in Assassin's Creed Odyssey. From outcast to living legend, embark on an odyssey to uncover the secrets of your past and change the fate of Ancient Greece. The Stadia Standard Edition includes Assassin's Creed Odyssey, The Blind King quest, and The Kronos Pack featuring 5 epic pieces of armour, an epic weapon and an epic mount."
+    },
+    "AT2EDENGAME00000_f879d932d28c4104958c7976f201ba38": {
+      "appId": "a38d988fb142400c947bf0a7b37fd404rcp1",
+      "sku": "f879d932d28c4104958c7976f201ba38",
+      "productType": "game",
+      "name": "Attack on Titan 2: Final Battle",
+      "somename": "AT2EDENGAME00000",
+      "description": "\"Attack on Titan 2: Final Battle\" contains the latest content for the tactical hunting action series based on the hit anime series \"Attack on Titan\". More than 40 playable characters join the battle! Through \"Story Mode\" experience the drama of seasons 1 and 2 of the anime firsthand, playing as the game-original protagonist! Via \"Another Mode\" play as other characters, too, and enjoy versus and cooperative battles online with other players as well! In \"Character Episode Mode\" experience season 3 through the eyes of the characters of the original anime! \"Territory Recovery Mode\" lets you create your own regiment and gather comrades to try and recapture territory outside the Walls!"
+    },
+    "BL3_StandardEdition_958f4c0900c64e7e83b9218ab479304e": {
+      "appId": "be080ad40b434ca289166031d3e88623rcp1",
+      "sku": "958f4c0900c64e7e83b9218ab479304e",
+      "productType": "game",
+      "name": "Borderlands®3",
+      "somename": "BL3_StandardEdition",
+      "description": "*Moxxi’s Heist of the Handsome Jackpot (Campaign Add-On 1) and bonus end game content such as Takedown at the Maliwan Blacksite expected to launch on Stadia early 2020. The original shooter-looter returns, packing bazillions of guns and a mayhem-fueled adventure! Blast through new worlds and enemies as one of four new Vault Hunters. Play solo or with friends to take on insane enemies, score loads of loot and save your home from the most ruthless cult leaders in the galaxy."
+    },
+    "BL3_DeluxeEdition_f4934cfefbf845c3a3fa345dd65f9fcd": {
+      "appId": "be080ad40b434ca289166031d3e88623rcp1",
+      "sku": "f4934cfefbf845c3a3fa345dd65f9fcd",
+      "productType": "game",
+      "name": "Borderlands®3 Deluxe Edition",
+      "somename": "BL3_DeluxeEdition",
+      "description": "*Moxxi’s Heist of the Handsome Jackpot (Campaign Add-On 1) and bonus end game content such as Takedown at the Maliwan Blacksite expected to launch on Stadia early 2020. The Deluxe Edition includes: • Retro Cosmetic Pack: Vault Hunter head &amp; skin, ECHO Device skin, weapon skin • Neon Cosmetic Pack: Vault Hunter head &amp; skin, ECHO Device skin, trinket • Gearbox Cosmetic Pack: weapon skin, trinket • Toy Box Weapons Pack: 2 Toy guns, Toy grenade mod, trinket • Equippable XP &amp; Loot Drop Boost Mods The original shooter-looter returns, packing bazillions of guns and an all-new mayhem-fueled adventure! Blast through new worlds and enemies as one of 4 brand new Vault Hunters. Play solo or with friends to take on insane enemies, score loads of loot and save your home."
+    },
+    "BL3_SuperDeluxeEdition_fbfc03802388481b87a6d6922b773686": {
+      "appId": "be080ad40b434ca289166031d3e88623rcp1",
+      "sku": "fbfc03802388481b87a6d6922b773686",
+      "productType": "game",
+      "name": "Borderlands®3 Super Deluxe Edition",
+      "somename": "BL3_SuperDeluxeEdition",
+      "description": "*Moxxi’s Heist of the Handsome Jackpot (Campaign Add-On 1) and bonus end game content such as Takedown at the Maliwan Blacksite expected to launch on Stadia early 2020. The Super Deluxe Edition includes the Season Pass and Deluxe bonus content. Season Pass: • 4 campaign add-on&#39;s • Butt Stallion weapon skin, weapon trinket, and grenade mod. Deluxe bonus content: • Retro Cosmetic Pack • Neon Cosmetic Pack • Gearbox Cosmetic Pack  • Toy Box Weapons Pack • Equippable XP &amp; Loot Drop Boost Mods. The original shooter-looter returns, packing bazillions of guns and an all-new mayhem-fueled adventure! Blast through new worlds and enemies as one of 4 brand new Vault Hunters. Play solo or with friends to take on insane enemies, score loads of loot and save your home."
+    },
+    "dme_battlemode_17affc92b9ca47a7b64e748609ed25af": {
+      "appId": "632522c846a041ce801e47b96ba2e265rcp1",
+      "sku": "17affc92b9ca47a7b64e748609ed25af",
+      "productType": "game",
+      "name": "DOOM Eternal",
+      "somename": "dme_battlemode",
+      "description": "Hell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity. The only thing they fear... is you. Experience the ultimate combination of speed and power in DOOM Eternal - the next leap in push-forward, first-person combat. Armed with a shoulder-mounted flamethrower, retractable wrist-mounted blade, upgraded guns and mods and abilities, you're faster, stronger, and more versatile than ever. And enter BATTLEMODE, the new 2 versus 1 multiplayer experience where a fully-armed DOOM Slayer faces off against two player-controlled demons, fighting it out in a best-of-five round match of intense first-person combat."
+    },
+    "dme_deluxebundle_e74abd04f4a34c7a82b6cf8cd9cf9ac0": {
+      "appId": "632522c846a041ce801e47b96ba2e265rcp1",
+      "sku": "e74abd04f4a34c7a82b6cf8cd9cf9ac0",
+      "productType": "game",
+      "name": "DOOM Eternal Deluxe Edition",
+      "somename": "dme_deluxebundle",
+      "description": "Hell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity. The only thing they fear... is you. Experience the ultimate combination of speed and power in DOOM Eternal - the next leap in push-forward, first-person combat. And enter BATTLEMODE, the new 2 versus 1 multiplayer experience where a fully-armed DOOM Slayer faces off against two player-controlled demons, fighting it out in a best-of-five round match of intense first-person combat. The Deluxe Edition includes: (1) Year One Pass (2) Demonic Slayer Skin (3) Classic Weapon Sound Pack."
+    },
+    "dme_standardbundle_b171fc78d4e1496d9536d585257a771e": {
+      "appId": "632522c846a041ce801e47b96ba2e265rcp1",
+      "sku": "b171fc78d4e1496d9536d585257a771e",
+      "productType": "game",
+      "name": "DOOM Eternal Standard Edition",
+      "somename": "dme_standardbundle",
+      "description": "Hell’s armies have invaded Earth. Become the Slayer in an epic single-player campaign to conquer demons across dimensions and stop the final destruction of humanity. The only thing they fear... is you. Experience the ultimate combination of speed and power in DOOM Eternal - the next leap in push-forward, first-person combat. Armed with a shoulder-mounted flamethrower, retractable wrist-mounted blade, upgraded guns and mods and abilities, you're faster, stronger, and more versatile than ever. And enter BATTLEMODE, the new 2 versus 1 multiplayer experience where a fully-armed DOOM Slayer faces off against two player-controlled demons, fighting it out in a best-of-five round match of intense first-person combat."
+    },
+    "game_66f1b5a13ee54b7aa70aebfddd18c085": {
+      "appId": "80a70c13987841b3a2aedbcac54784abrcp1",
+      "sku": "66f1b5a13ee54b7aa70aebfddd18c085",
+      "productType": "game",
+      "name": "DRAGON BALL XENOVERSE 2",
+      "somename": "game",
+      "description": "DRAGON BALL XENOVERSE 2 gives players the ultimate DRAGON BALL gaming experience! Develop your own warrior, create the perfect avatar, train to learn new skills &amp; help fight new enemies to restore the original story of the DRAGON BALL series. Join 300 players from around the world in the new hub city of Conton &amp; fight with or against them."
+    },
+    "f39390395ed5444d8e9b23460c8f9152rcp1_6c8ae46efebc4bd1a7de725bc630ce65": {
+      "appId": "f39390395ed5444d8e9b23460c8f9152rcp1",
+      "sku": "6c8ae46efebc4bd1a7de725bc630ce65",
+      "productType": "game",
+      "name": "Darksiders Genesis",
+      "somename": "f39390395ed5444d8e9b23460c8f9152rcp1",
+      "description": "DARKSIDERS: GENESIS is an action/adventure that tears its way through hordes of demons, angels, and everything in-between on its way to Hell and back with guns blazing and swords swinging.  Genesis gives players their first look at the world of DARKSIDERS before the events of the original game, as well as introduces the horseman STRIFE."
+    },
+    "20000002_1f50a7a214994a5cb861db76eef77564": {
+      "appId": "20e792017ab34ad89b70dc17a5c72d68rcp1",
+      "sku": "1f50a7a214994a5cb861db76eef77564",
+      "productType": "game",
+      "name": "Destiny 2: Forsaken",
+      "somename": "20000002",
+      "description": "In a high-stakes prison escape, Uldren and his eight Barons took out legendary Hunter, Cayde-6, and unleashed chaos across the Reef."
+    },
+    "20000003_35087d3c68c94b03b6f7e67440b8b283": {
+      "appId": "20e792017ab34ad89b70dc17a5c72d68rcp1",
+      "sku": "35087d3c68c94b03b6f7e67440b8b283",
+      "productType": "game",
+      "name": "Destiny 2: Shadowkeep",
+      "somename": "20000003",
+      "description": "New nightmares have emerged from the shadows of our Moon. Called forth by haunting visions, Eris Morn has returned. Join her to slay these nightmares before they reach out beyond the Moon to cast humanity back into an age of darkness."
+    },
+    "20000001_bd70626ec3834dedbc6dda5b956f7648": {
+      "appId": "20e792017ab34ad89b70dc17a5c72d68rcp1",
+      "sku": "bd70626ec3834dedbc6dda5b956f7648",
+      "productType": "game",
+      "name": "Destiny 2: The Collection",
+      "somename": "20000001",
+      "description": "Dive into the world of Destiny 2 to experience responsive FPS combat, explore the mysteries of our solar system, and unleash elemental abilities against powerful enemies. Experience Destiny 2’s cinematic story alone or with friends, join other Guardians for challenging co-op missions, or compete against them in a variety of PvP modes. Destiny 2: The Collection includes Destiny 2, Destiny 2: Forsaken, and Destiny 2: Shadowkeep. See below for loot box odds."
+    },
+    "20000004_58f0a37bf6b141e4ba3a14b59e46b7ff": {
+      "appId": "20e792017ab34ad89b70dc17a5c72d68rcp1",
+      "sku": "58f0a37bf6b141e4ba3a14b59e46b7ff",
+      "productType": "game",
+      "name": "Destiny 2: Upgrade Edition",
+      "somename": "20000004",
+      "description": "Experience all of Destiny 2’s cinematic story alone or with friends, join other Guardians for challenging co-op missions, or compete against them in a variety of PvP modes. You decide your legend. Includes the critically acclaimed expansions Forsaken and Shadowkeep."
+    },
+    "fs19_platinum_0292121ae01e4247ace30184df5f6ac0": {
+      "appId": "ebf235012b054269af70eee901bc85cfrcp1",
+      "sku": "0292121ae01e4247ace30184df5f6ac0",
+      "productType": "game",
+      "name": "Farming Simulator 19 Platinum Edition",
+      "somename": "fs19_platinum",
+      "description": "Take on the role of a modern farmer in Farming Simulator 19 Platinum Edition! For the first time in the franchise history, discover CLAAS, one of the world's leading farming brands. Enjoy over 380 machines from John Deere, CASE IH, New Holland, Challenger, Fendt, Massey Ferguson, Valtra, Krone, Deutz-Fahr and many more. Including more than 35 new CLAAS vehicles and tools to grow your farm alone or with other players in two huge maps filled with exciting farming activities, crops to harvest and animals to tend to."
+    },
+    "FM2020_32a0791a88474f08ad7a687846b786f2": {
+      "appId": "8a3cc52ad2334b1e91ded77bc43644e0rcp1",
+      "sku": "32a0791a88474f08ad7a687846b786f2",
+      "productType": "game",
+      "name": "Football Manager 2020",
+      "somename": "FM2020",
+      "description": "Manage your football club, your way, in a living, breathing football universe which places you at its very heart. In this latest instalment of the best-selling series, every footballing decision is yours to make; from creating tactical styles and training schedules to assembling an elite backroom staff and working with your scouts to build the ultimate squad. The question is, at which of the world’s best clubs will your journey begin? There are over 100 leagues from 50 countries to choose from. FM20 is a world that rewards planning and knowledge but, unlike other games, there’s no script or pre-defined ending – just endless possibilities. How you get to the top is up to you; you own your decision, and their consequences. Football Manager 2020 is not optimized for mobile devices."
+    },
+    "GRID_Ultimate_Edition_4f1db1c66f6e427286cc21d116e7bbee": {
+      "appId": "ca805d3d37404654a91d2ea62fad7bd4rcp1",
+      "sku": "4f1db1c66f6e427286cc21d116e7bbee",
+      "productType": "game",
+      "name": "GRID Ultimate Edition",
+      "somename": "GRID_Ultimate_Edition",
+      "description": "Be an Ultimate Edition GRID player to get 6 months of premium content including: 99 extra Career events (33 per season), 12 new cars (4 per season) &amp; Seasonal rewards*: Season 1 (Hot Hatch Showdown), Season 2 (Track Day Supercars), Season 3 (Track Day Hypercars). 5 Grid Edition Carbon Liveries (each with added XP boost): Aston Martin Vantage GT4, Pontiac Firebird Modified, Chevrolet Corvette C7.R, Mitsubishi Lancer Evolution VI Time Attack, Renault R26. 10 player cards, 10 player banners, 10 extra unique liveries, VIP status."
+    },
+    "getpacked_a6ffc113bea9495b84581796893ebf50": {
+      "appId": "73182869b2a644bdbef46984b96e1721rcp1",
+      "sku": "a6ffc113bea9495b84581796893ebf50",
+      "productType": "game",
+      "name": "Get Packed",
+      "somename": "getpacked",
+      "description": "Get Packed is a couch co-op removals game full of calamity and physics-based carnage for 1-4 players. When a greedy salt mining company takes over Ditchlington, Last Ditch Removals must handle the hostile eviction. With little time and even less caution, your ragtag removals team gets to work rapidly relocating the entire town… leaving a trail of destruction, explosions, and furniture fragments in your wake! Are you ready for some destructive fun with friends? Things you'll love: 1 - 4 player local and online co-op. Campaign and Destruction game modes. Co-op chaos and carnage across 12 locations. 4 Customizable/Playable characters"
+    },
+    "game_3feef74cbacf4ba39b5d9087e0dfb9e4": {
+      "appId": "4b7f307c37364d659118bf7d435733c7rcp1",
+      "sku": "3feef74cbacf4ba39b5d9087e0dfb9e4",
+      "productType": "game",
+      "name": "Just Dance 2020®",
+      "somename": "game",
+      "description": "Wherever life takes you, Just Dance 2020 will keep you dancing for hours with an insane amount of content for the whole family to enjoy! Just Dance 2020 comes with over 40 new and fun songs, and access to more than 400 songs available with Just Dance Unlimited."
+    },
+    "game_ab6a5a0d448d4c7aaed8dfa91ad6f4b9": {
+      "appId": "d334bea27ee64ef5a3a9bb14b1d6a88ercp1",
+      "sku": "ab6a5a0d448d4c7aaed8dfa91ad6f4b9",
+      "productType": "game",
+      "name": "Lost Words: Beyond the Page",
+      "somename": "game",
+      "description": "Interact with the words inscribed in the pages of a young girl’s diary to solve challenging puzzles, tackle unique platforming segments and discover an emotional tale set across the vibrant world of Estoria in Lost Words: Beyond the Page. Personal diary entries belonging to a young girl named Izzy will unfold as you explore a fantasy land where words hold immense power. Featuring an immersive story crafted by renowned games writer Rhianna Pratchett, Lost Words: Beyond the Page will mesmerize players with its unique blend of gameplay mechanics and striking watercolor aesthetic. Driven by the player’s curiosity, the world of Estoria and the power it holds will serve as the engine that will propel Izzy through this deeply personal narrative, resulting in a truly memorable experience."
+    },
+    "metro_exodus_gold_edition_b1ef708943904e7eaa699d2113805814": {
+      "appId": "879d82512f5441829250ead1aa678a70rcp1",
+      "sku": "b1ef708943904e7eaa699d2113805814",
+      "productType": "game",
+      "name": "Metro Exodus - Gold Edition",
+      "somename": "metro_exodus_gold_edition",
+      "description": "The Gold Edition includes the Metro Exodus Expansion Pass. The Metro Exodus Expansion Pass will contain two major pieces of story-driven DLC for the game, following brand new stories from the world of Metro: The Two Colonels & Sam’s Story – Early 2020. Flee the shattered ruins of the Moscow Metro and embark on an epic, continent-spanning journey across the post-apocalyptic Russian wilderness. Explore vast, non-linear levels, lose yourself in an immersive, sandbox survival experience, and follow a thrilling story-line that spans an entire year in the greatest Metro adventure yet."
+    },
+    "game_256f320f886b4ee68b7980d6fc1bd1b1": {
+      "appId": "10b8a9cc8ec746f29afc1fc3c3ded28brcp1",
+      "sku": "256f320f886b4ee68b7980d6fc1bd1b1",
+      "productType": "game",
+      "name": "Monopoly",
+      "somename": "game",
+      "description": "Grow your empire anywhere, anytime, with MONOPOLY for Stadia! Immerse yourself in a mix of the original family-favorite board game enriched with new ways to play: • Choose among three lively 3D boards • Play on-the-go, with up to 6 players • Not enough time for a full game? Enjoy new modes for faster sessions • Select your own rules and spice things up with the new Action Cards Trading your way to success has never been so fun!"
+    },
+    "game_3ac3e537019c49028d7bb98e8cd92482": {
+      "appId": "d50e1c1b61224bceb65da9406f3f4e8frcp1",
+      "sku": "3ac3e537019c49028d7bb98e8cd92482",
+      "productType": "game",
+      "name": "Monster Energy Supercross - The Official Videogame 3",
+      "somename": "game",
+      "description": "The only Official Monster Energy AMA Supercross Championship videogame is back! Relive the 2019 Supercross season with 100 riders of both 450SX and 250SX categories, 15 official stadiums and tracks and for the first time in the series you'll be able to join the official teams in the career mode. Enjoy an amazing Co-op experience with your friends in the new compound! Have fun with an improved multiplayer experience thanks to the new dedicated servers and play as a Race Director! Create and share an infinite number of tracks with the track editor! Race as a female rider to become the next Supercross champion. New ground and in-air physics, new rider models and new animations will give you a more immersive experience to enjoy the Supercross world at its best!  "
+    },
+    "f5545762-ddf1-4746-8ba2-e98d805bf066_f3f250e8a4d54f60ba730fbc04268052": {
+      "appId": "7bfbcba307114ab88ae4231da2ec85d3rcp1",
+      "sku": "f3f250e8a4d54f60ba730fbc04268052",
+      "productType": "game",
+      "name": "Mortal Kombat 11",
+      "somename": "f5545762-ddf1-4746-8ba2-e98d805bf066",
+      "description": "Mortal Kombat 11 is the latest installment in the critically acclaimed franchise, providing a deeper and more personalized experience than ever before. The all new Custom Character Variations give you unprecedented control of your fighters to make them your own."
+    },
+    "7dc2dac2-c9e7-4988-9b14-37cb58ff69f1_69713a38ec1a48f5aed02a24752540cb": {
+      "appId": "7bfbcba307114ab88ae4231da2ec85d3rcp1",
+      "sku": "69713a38ec1a48f5aed02a24752540cb",
+      "productType": "game",
+      "name": "Mortal Kombat 11 Premium Edition",
+      "somename": "7dc2dac2-c9e7-4988-9b14-37cb58ff69f1",
+      "description": "Mortal Kombat 11 is the latest installment in the critically acclaimed franchise, providing a deeper and more personalized experience than ever before. The all new Custom Character Variations give you unprecedented control of your fighters to make them your own. The Mortal Kombat 11 Premium Edition includes: Main Game, Kombat Pack. The Kombat Pack includes: 6 new add-on playable characters, released over time - 7 exclusive Character Skins - 7 exclusive sets of gear"
+    },
+    "game_b0c60f8483be419eb2335a79a0783cc5": {
+      "appId": "e465c4086aff4884990933d9f119f5f5rcp1",
+      "sku": "b0c60f8483be419eb2335a79a0783cc5",
+      "productType": "game",
+      "name": "MotoGP™20",
+      "somename": "game",
+      "description": "Experience all the thrills of the more-complete-than-ever Managerial Career mode and decide whether to join a 2020 season team or join a totally brand new team. Discover more realistic physics, improved graphics, new 3D models for the riders and face scans of official team managers, plus new animations. You will also have to learn how to manage the wear of tyres. Customize bikes and suits! Find the best combination of sponsor and livery, and choose colours and materials. Coordinate everything with your suit to win in style! Compete with legendary riders! New historic content and a new gaming mode await you to let you relive MotoGP™ history."
+    },
+    "NBA2K20_b6d1b295ed0d4f1080576ac5d51df6d0": {
+      "appId": "2afad3696b394f669b49e4c0b6016958rcp1",
+      "sku": "b6d1b295ed0d4f1080576ac5d51df6d0",
+      "productType": "game",
+      "name": "NBA 2K20",
+      "somename": "NBA2K20",
+      "description": "NBA 2K has evolved into much more than a basketball simulation. 2K continues to redefine what’s possible in sports gaming with NBA 2K20, featuring best in class graphics &amp; gameplay, ground breaking game modes, and unparalleled player control and customization. Plus, with its immersive open-world Neighborhood, NBA 2K20 is a platform for gamers and ballers to come together and create what’s next in basketball culture. See MyTEAM Pack Drop Rates below."
+    },
+    "NBA2K20_Deluxe_Bundle_183f245b98a141ae97214c9ee5ae8a56": {
+      "appId": "2afad3696b394f669b49e4c0b6016958rcp1",
+      "sku": "183f245b98a141ae97214c9ee5ae8a56",
+      "productType": "game",
+      "name": "NBA 2K20 Digital Deluxe",
+      "somename": "NBA2K20_Deluxe_Bundle",
+      "description": "The NBA 2K20 Digital Deluxe Edition includes 35,000 Virtual Currency, 10,000 MyTEAM Points, 10 MyCAREER Skill Boosts, MyPLAYER Clothing Capsule, 10 MyTEAM League Packs (delivered one a week), 10 MyTEAM Heat Check Packs (delivered one a week), and 1 Sapphire MyTEAM Anthony Davis Card. See MyTEAM Pack Drop Rates below."
+    },
+    "NBA2K20_Legend_Bundle_0a763df666fc4569896ca44062308138": {
+      "appId": "2afad3696b394f669b49e4c0b6016958rcp1",
+      "sku": "0a763df666fc4569896ca44062308138",
+      "productType": "game",
+      "name": "NBA 2K20 Legend Edition",
+      "somename": "NBA2K20_Legend_Bundle",
+      "description": "The NBA 2K20 Legend Edition includes the following digital items: 100,000 Virtual Currency, 50,000 MyTEAM Points, 20 MyCAREER Skill Boosts, MyPLAYER Clothing Capsule, MyPLAYER Apparel Collection, MyPLAYER Shoe Collection, 20 MyTEAM League Packs (delivered one a week), 20 MyTEAM Heat Check Packs (delivered one a week), 5 MyTEAM Themed Packs (one per theme release across the next five releases), and 2 Sapphire MyTEAM Cover Athlete Cards. See MyTEAM Pack Drop Rates below."
+    },
+    "OCTOPATH TRAVELER_a6c13e6aa796439295774eb0e8cd3f8b": {
+      "appId": "48ead86182b14fe0afcc5f2927dbed51rcp1",
+      "sku": "a6c13e6aa796439295774eb0e8cd3f8b",
+      "productType": "game",
+      "name": "OCTOPATH TRAVELER™",
+      "somename": "OCTOPATH TRAVELER",
+      "description": "Eight travelers. Eight adventures. Eight roles to play. Embark on an epic journey across the vast and wondrous world of Orsterra and discover the captivating stories of each of the eight travelers."
+    },
+    "PUBGCHKDINEDITION_9faa81e600704a828c243bf0b9c479bd": {
+      "appId": "a4c5eb3f4e614b7fadbba64cba68f849rcp1",
+      "sku": "9faa81e600704a828c243bf0b9c479bd",
+      "productType": "game",
+      "name": "PlayerUnknown's Battlegrounds - Chicken Dinner Edition",
+      "somename": "PUBGCHKDINEDITION",
+      "description": "This is Battle Royale. Land, loot and outwit your opponents to become the last player standing in a thrilling game experience full of unexpected, adrenaline-pumping moments. This bundle includes Playerunknown's Battlegrounds basegame, 6,000 G-Coin, Survivor Pass: Cold Front, Premiere set, Aviator Set, Brown Hat Ranger Set, Blue School Uniform Set, Cheerleader Set, Factory worker Set and Hipster Set."
+    },
+    "PUBGPIONEREDITION_be9526126d394061b0eef9b16352357e": {
+      "appId": "a4c5eb3f4e614b7fadbba64cba68f849rcp1",
+      "sku": "be9526126d394061b0eef9b16352357e",
+      "productType": "game",
+      "name": "PlayerUnknown's Battlegrounds - Pioneer Edition",
+      "somename": "PUBGPIONEREDITION",
+      "description": "This is Battle Royale. Land, loot and outwit your opponents to become the last player standing in a thrilling game experience full of unexpected, adrenaline-pumping moments. This bundle includes Playerunknown's Battlegrounds basegame, Survivor Pass: Cold Front and Stadia Premiere set."
+    },
+    "game_78ea22fb5c054167bb722322b469f33f": {
+      "appId": "8615c857d7d54efebd94fe17e3f2896crcp1",
+      "sku": "78ea22fb5c054167bb722322b469f33f",
+      "productType": "game",
+      "name": "RAGE 2",
+      "somename": "game",
+      "description": "An asteroid has annihilated 80% of the earth’s population, and humanity’s numbers are dwindling. Ruthless and bloodthirsty gangs roam the open roads and the tyrannical Authority seek to rule with an iron fist. As Walker, the last Ranger of the wasteland and a threat to their power, you have been robbed of your home and left for dead. Now you’ll have to rage for justice and freedom. With ludicrous vehicle combat, super-powered first-person mayhem, and an open world full of emergent madness, you will tear across an unforgiving wasteland battling sadistic gangs to find the tools and tech needed to crush the oppressive rule of The Authority once and for all."
+    },
+    "deluxe_edition_65e4b00af1094f1c99f5a8c7248b433f": {
+      "appId": "8615c857d7d54efebd94fe17e3f2896crcp1",
+      "sku": "65e4b00af1094f1c99f5a8c7248b433f",
+      "productType": "game",
+      "name": "RAGE 2: Deluxe Edition",
+      "somename": "deluxe_edition",
+      "description": "Dive headfirst into a dystopian world devoid of society, law, and order. RAGE 2 brings together two studio powerhouses – Avalanche Studios, masters of open world insanity, and id Software, creators of the first-person shooter – to deliver a carnival of carnage where you can go anywhere, shoot anything, and explode everything. Purchase the  RAGE 2: Deluxe Edition to receive: Rise of the Ghosts Expansion, Doom BFG, Wasteland Wizard Cheat Codes, Battle Standard, Progress Booster."
+    },
+    "game_f790e37b6161477188923408085528a1": {
+      "appId": "2152a1e96d5b47b18a5df7ca9bb0751frcp1",
+      "sku": "f790e37b6161477188923408085528a1",
+      "productType": "game",
+      "name": "Red Dead Redemption 2",
+      "somename": "game",
+      "description": "Red Dead Redemption 2, the critically acclaimed open world epic from Rockstar Games and the highest rated game of the console generation, now enhanced for Google Stadia with new Story Mode content, visual upgrades and more.  America, 1899. The end of the wild west era has begun. After a robbery goes badly wrong in the western town of Blackwater, Arthur Morgan and the Van der Linde gang are forced to flee. With federal agents and the best bounty hunters in the nation massing on their heels, the gang must rob, steal and fight their way across the rugged heartland of America in order to survive. As deepening internal divisions threaten to tear the gang apart, Arthur must make a choice between his own ideals and loyalty to the gang who raised him."
+    },
+    "special_ed_bundle_63e94c60b10e4267add34ef768c30f8f": {
+      "appId": "2152a1e96d5b47b18a5df7ca9bb0751frcp1",
+      "sku": "63e94c60b10e4267add34ef768c30f8f",
+      "productType": "game",
+      "name": "Red Dead Redemption 2:  Special Edition",
+      "somename": "special_ed_bundle",
+      "description": "The Red Dead Redemption 2 Special Edition delivers exclusive content for Story Mode including a Bank Robbery Mission & Gang Hideout, Dappled Black Thoroughbred, Talisman & Medallion Gameplay Bonuses, Gameplay Boosts, Cash Bonuses & Discounts, and the Nuevo Paraiso Gunslinger Outfit, plus free access to Additional Weapons."
+    },
+    "ultimate_ed_bundle_08bf286364164e14bac41b0040d6331f": {
+      "appId": "2152a1e96d5b47b18a5df7ca9bb0751frcp1",
+      "sku": "08bf286364164e14bac41b0040d6331f",
+      "productType": "game",
+      "name": "Red Dead Redemption 2:  Ultimate Edition",
+      "somename": "ultimate_ed_bundle",
+      "description": "The Red Dead Redemption 2:  Ultimate Edition delivers all of the Story Mode content from the Special Edition plus additional content for online including Bonus Outfits for your online Character, Rank Bonuses, Black Chestnut Thoroughbred and free access to the Survivor Camp Theme.  Plus get free access to Additional Weapons in online."
+    },
+    "15002000_bb9bcb490fd145d9997c8b3ff3f1039f": {
+      "appId": "efa3b6108d3e41689b2223ba9d48f5c8rcp1",
+      "sku": "bb9bcb490fd145d9997c8b3ff3f1039f",
+      "productType": "game",
+      "name": "Shadow of the Tomb Raider Definitive Edition",
+      "somename": "15002000",
+      "description": "In Shadow of the Tomb Raider Definitive Edition experience the final chapter of Lara’s origin as she is forged into the Tomb Raider she is destined to be. Combining the base game, all seven DLC challenge tombs, as well as all downloadable weapons, outfits, and skills, Shadow of the Tomb Raider Definitive Edition is the ultimate way to experience Lara’s defining moment."
+    },
+    "game_f6658df6c8874c828532d5d24c66d58f": {
+      "appId": "c4898519ff254b969ede8bafdff927e8rcp1",
+      "sku": "f6658df6c8874c828532d5d24c66d58f",
+      "productType": "game",
+      "name": "SteamWorld Dig",
+      "somename": "game",
+      "description": "SteamWorld Dig is a platform mining adventure with strong Metroidvanian influences. Take the role of Rusty, a lone mining steambot, as he arrives at an old mining town in great need. Dig your way through the old earth, gaining riches while uncovering the ancient threat that lurks below..."
+    },
+    "TheCrew2_94db678cbb6342c3bc0e58f71130b3fb": {
+      "appId": "cc97434908874852a6705d255a605dc8rcp1",
+      "sku": "94db678cbb6342c3bc0e58f71130b3fb",
+      "productType": "game",
+      "name": "The Crew 2",
+      "somename": "TheCrew2",
+      "description": "In The Crew 2, take on the American motorsports scene as you explore and dominate the land, air, and sea of the United States in one of the most exhilarating open worlds ever created.  With a wide variety of exotic cars, bikes, boats, and planes to choose from, experience the unbridled thrill and adrenaline-pumping excitement of competing across the entire USA as you test your skills in a wide range of driving disciplines. Record every heart-pounding, white-knuckle, moment and share them with the simple push of a button - fame is yours to take! Play with up to 7 friends online."
+    },
+    "DeluxeEdition_ec30180d14de41fcaec12d442b81e248": {
+      "appId": "cc97434908874852a6705d255a605dc8rcp1",
+      "sku": "ec30180d14de41fcaec12d442b81e248",
+      "productType": "game",
+      "name": "The Crew 2 - Deluxe Edition",
+      "somename": "DeluxeEdition",
+      "description": "The Crew 2 - Deluxe Edition features The Crew 2 Motorsports Deluxe Pack which includes: Ford F-150 Raptor Race Truck 2017, Abarth 500 2008 Monster Truck Edition, Pilatus PC-21, 3 outfits to customize your avatar. Take on the American motorsports scene as you explore and dominate the land, air, and sea across the entire USA. With a wide variety of cars, bikes, boats, and planes, compete in a wide range of driving disciplines."
+    },
+    "GoldEdition_1e4107605f83447fa8e04e0abdc578b3": {
+      "appId": "cc97434908874852a6705d255a605dc8rcp1",
+      "sku": "1e4107605f83447fa8e04e0abdc578b3",
+      "productType": "game",
+      "name": "The Crew 2 - Gold Edition",
+      "somename": "GoldEdition",
+      "description": "The Crew 2 - Gold Edition features : The Crew 2 Season Pass , The Crew 2 Motorsports Deluxe Pack that includes: Ford F-150 Raptor Race Truck 2017, Abarth 500 2008 Monster Truck Edition, 3 outfits to customize your pilot. Take on the American motorsports scene as you explore and dominate the land, air, and sea across the entire USA. With a wide variety of cars, bikes, boats, and planes, compete in a wide range of driving disciplines."
+    },
+    "game_warlock_bundle_f962fa4f12b64bffade9c170469d5710": {
+      "appId": "d43cd46c81734ca48e1a615310d0237crcp1",
+      "sku": "f962fa4f12b64bffade9c170469d5710",
+      "productType": "game",
+      "name": "The Division 2 - Warlords of New York Edition",
+      "somename": "game_warlock_bundle",
+      "description": "INCLUDES THE DIVISION 2 + EXPANSION. In the Warlords of New York expansion, hunt down your nemesis, Aaron Keener, a former Division Agent who has taken control of New York. Trained by The Division but disavowing its ideals, he is now the highest authority in town. Includes a level 30 boost, allowing you to jump right into the Warlords of New York campaign. Play solo or online co-op. Experience a gripping story set in a post-pandemic country. Explore two open worlds: Washington, DC, and New York City. Create and level up your own Division Agent. Play intense PvP in the Dark Zones. Enjoy an extended endgame, including thematic three-month seasons"
+    },
+    "game_warlock_ult_bundle_b9d1633ba24f41d7919f431db4744f3c": {
+      "appId": "d43cd46c81734ca48e1a615310d0237crcp1",
+      "sku": "b9d1633ba24f41d7919f431db4744f3c",
+      "productType": "game",
+      "name": "The Division 2: Warlords of New York Ultimate Edition",
+      "somename": "game_warlock_ult_bundle",
+      "description": "In the Warlords of New York expansion, hunt down your nemesis, Aaron Keener, a former Division Agent who has taken control of New York. Trained by The Division but disavowing its ideals, he is now the highest authority in town. Tom Clancy’s The Division 2 Warlords of New York - Ultimate Edition includes:  the base game, the Warlords of New York expansion, a level 30 boost, allowing you to jump right into the Warlords of New York campaign, the instant unlock of all 6 endgame specializations, 8 exclusive Classified assignments missions, the Battleworn secret service pack, the First Responder pack, the Elite Agent pack, 1 exclusive emote, 1 exclusive outfit"
+    },
+    "game_06e101d56a03472bb6c204aee96187d7": {
+      "appId": "11c9ece5b3a045908d77cf2b66adb010rcp1",
+      "sku": "06e101d56a03472bb6c204aee96187d7",
+      "productType": "game",
+      "name": "Tom Clancy's Ghost Recon Breakpoint",
+      "somename": "game",
+      "description": "Experience a military shooter set in a diverse &amp; hostile open world that you can play solo or up to four-player co-op. FACE YOUR TOUGHEST ENEMIES With your own playstyle, take down the Wolves, ex-brothers-in-arms gone rogue and their leader Cole D. Walker. DISCOVER STADIA EXCLUSIVE FEATURE Enjoy a totally new social experience with Stream Connect, providing a real time view into another player’s game as it’s happening, so you can not only watch but interact with them instantly. Upgrade to the Gold Edition or Ultimate Edition to get the most out of your experience including the Year 1 Pass and more."
+    },
+    "game_gold_10621ce0fe784ccca7a9d95ec0f24f37": {
+      "appId": "11c9ece5b3a045908d77cf2b66adb010rcp1",
+      "sku": "10621ce0fe784ccca7a9d95ec0f24f37",
+      "productType": "game",
+      "name": "Tom Clancy's Ghost Recon Breakpoint - Gold Edition",
+      "somename": "game_gold",
+      "description": "Upgrade your game experience with the Gold Edition, including the Year 1 Pass:  The Siren&#39;s call Day 1 mission, two adventures continuing the main story: Deep State &amp; Transcendence, early unlock for 3 new classes &amp; the Special Operations Forces Pack.  Experience a military shooter set in a diverse &amp; hostile open world that you can play solo or up to four-player co-op. Enjoy a totally new social experience with Stream Connect, providing a real time view into another player’s game as it’s happening, so you can not only watch but interact with them instantly."
+    },
+    "game_ultimate_0339b1c963e64e28a64b5778da93478c": {
+      "appId": "11c9ece5b3a045908d77cf2b66adb010rcp1",
+      "sku": "0339b1c963e64e28a64b5778da93478c",
+      "productType": "game",
+      "name": "Tom Clancy's Ghost Recon Breakpoint - Ultimate Edition",
+      "somename": "game_ultimate",
+      "description": "Enjoy the complete experience with the Ultimate Edition, including: Year 1 Pass, the Survivor Pack, the Off-Road Pack, the Sacred Land Pack. The Year 1 Pass includes: The Siren's call Day 1 mission, two adventures continuing the main story, early unlock for 3 new classes, the Special Operations Forces Pack. Enjoy a totally new social experience with Stream Connect, providing a real time view into another player’s game as it’s happening, so you can not only watch but interact with them instantly."
+    },
+    "Trials_game_01e95e73256c465fb5620fc574446413": {
+      "appId": "a031419410cc48469ff8954ea0732640rcp1",
+      "sku": "01e95e73256c465fb5620fc574446413",
+      "productType": "game",
+      "name": "Trials Rising",
+      "somename": "Trials_game",
+      "description": "Explore over-the-top action and physics-bending motorcycle racing in the latest opus of the Trials franchise.  All new features, more competitions and more tracks means new challenges. Ride challenging tracks around the world – from the Great Wall of China and New York City to the Eiffel Tower and everywhere in between. With the new hilarious Tandem Bike, get your friends and try to control one bike with two riders. From your local backyard to worldwide stadiums, defeat all your opponents online and rise to glory. Create and share unique levels in Track Central using over 10 000 items available. Possibilities are endless , and so is the fun."
+    },
+    "gold_cc66f2992d04402bba5cbc8abf6cc616": {
+      "appId": "a031419410cc48469ff8954ea0732640rcp1",
+      "sku": "cc66f2992d04402bba5cbc8abf6cc616",
+      "productType": "game",
+      "name": "Trials Rising - Digital Gold Edition",
+      "somename": "gold",
+      "description": "Explore over-the-top action and physics-bending motorcycle racing in the latest entry of the Trials franchise.  With new tracks  and more ways to compete, Trials Rising is easy to pick-up and play, challenging to master and offers the best multiplayer racing experience. Get an additional 55+ tracks with the Expansion Pass: Explore the American southwest  and go on wild rides in Trials Rising Sixty-Six. Go on an epic adventure below the equator in Trials Rising Crash &amp; Sunburn, globe-trotting in exotic locations. Cut up the competition while you sport The Samurai Item Pack. Defy the laws of gravity with The Stuntman Rider Pack."
+    },
+    "WOLFYB_31047b9e82bb4a30ba66b24bef71cdf2": {
+      "appId": "4884bd9bd7864cf28deef05ef4b69e70rcp1",
+      "sku": "31047b9e82bb4a30ba66b24bef71cdf2",
+      "productType": "game",
+      "name": "Wolfenstein: Youngblood",
+      "somename": "WOLFYB",
+      "description": "Wolfenstein: Youngblood is the first modern co-op Wolfenstein adventure. Nineteen years after the events of Wolfenstein II, BJ Blazkowicz has disappeared after a mission into Nazi-occupied Paris. Now, after years of training from their battle-hardened father, BJ’s twin daughters, Jess and Soph Blazkowicz, are forced into action. Team up with a friend or play alone. Level up, explore, and complete missions to unlock new abilities, weapons, gadgets, cosmetics, and more to complement your playstyle and customize your appearance. Wolfenstein: Youngblood features the most open-ended Wolfenstein experience to date. From a new base of operations located deep in the heart of the Paris catacombs, plan how and when to attack and dismantle the Nazi regime."
+    },
+    "DeluxeEdition_13f0229eab0a484382e9af78bad74ff7": {
+      "appId": "cba537cccfe3470b8784f88660ea5f09rcp1",
+      "sku": "13f0229eab0a484382e9af78bad74ff7",
+      "productType": "game",
+      "name": "Zombie Army 4: Dead War Deluxe Edition",
+      "somename": "DeluxeEdition",
+      "description": "The Zombie Army 4 Deluxe Edition includes: MAIN GAME, ADDITIONAL CHARACTER PACK Playable Character: Undead Airman, ADDITIONAL WEAPON SKIN PACK Weapon Skins: Solid Gold, ADDITIONAL WEAPON BUNDLE Weapon Bundle: FG-42 Semi-auto Rifle, ADDITIONAL CHARACTER OUTFIT BUNDLE Character Outfit: Undercover Karl."
+    },
+    "SuperDeluxeEdition_5027183521d3454a8ff000edbfd478a9": {
+      "appId": "cba537cccfe3470b8784f88660ea5f09rcp1",
+      "sku": "5027183521d3454a8ff000edbfd478a9",
+      "productType": "game",
+      "name": "Zombie Army 4: Dead War Super Deluxe Edition",
+      "somename": "SuperDeluxeEdition",
+      "description": "Augment your Zombie Army 4 experience with an entire season of post-launch content with the Super Deluxe Edition.  The Zombie Army 4 Super Deluxe Edition includes: MAIN GAME, ZOMBIE ARMY 4: SEASON PASS ONE, INCLUDING 3 ADDITIONAL LEVELS, 4 CHARACTER PACKS, 9 WEAPON BUNDLES, 5 WEAPON SKIN PACKS, 4 CHARACTER OUTFIT BUNDLES."
+    }
+  }
+}

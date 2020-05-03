@@ -1,15 +1,20 @@
-Promise.resolve()
+(async () => {})()
   .then(() => main())
   .catch((error) => console.error(error));
 
-const players = new Map<Player["playerId"], Player>();
-const products = new Map<Product["sku"], Game | Bundle | AddOn>();
+const players: Record<Player["playerId"], Player> = {};
+const products: Record<Product["sku"], Product> = {};
 
 const main = async () => {
+  console.clear();
   const homePage = await fetchPreloadData("/home");
-  const me = Player.fromProto(homePage[5][5]);
+  const me = Player.fromProto(
+    homePage[2]?.[5] ?? homePage[5]?.[5] ?? homePage[4]?.[5]
+  );
+  const myGames = homePage[8]?.[0].map((x) => x[1]).map(Game.fromProto);
 
   const storePage = await fetchPreloadData("/store/list/3");
+  const allGames = storePage[1][2].map((x) => x[9]).map(Game.fromProto);
 
   const playerActivityPage = await fetchPreloadData(
     "/profile/956082794034380385/gameactivities/all"
@@ -19,10 +24,17 @@ const main = async () => {
     "/profile/956082794034380385/detail/a4c5eb3f4e614b7fadbba64cba68f849rcp1"
   );
 
-  const pages = { homePage, storePage, playerActivityPage, gameProfilePage };
+  const pages = {
+    homePage,
+    storePage,
+    playerActivityPage,
+    gameProfilePage,
+    myGames,
+    allGames,
+  };
   console.log(pages);
 
-  const data = { me };
+  const data = { players, products };
   console.log(data);
 
   const a = Object.assign(document.createElement("a"), {
@@ -46,7 +58,9 @@ class Player {
     readonly somename = "JEREMY",
     readonly avatarId = "s00056",
     readonly avatarUrl = "https://www.gstatic.com/stadia/gamers/avatars/mdpi/avatar_56.png"
-  ) {}
+  ) {
+    players[`${this.somename}_${this.playerId}`] = this;
+  }
 
   static fromProto(data: Array<any>): Player {
     return new Player(
@@ -77,7 +91,9 @@ class Game implements ProductCommon {
     readonly name = "PLAYERUNKNOWN'S BATTLEGROUNDS",
     readonly somename = "PUBGBATTLEGROUNDS01",
     readonly description = ""
-  ) {}
+  ) {
+    products[`${this.somename}_${this.sku}`] = this;
+  }
 
   static fromProto(data: Array<any>): Game {
     return new Game(data[4], data[0], "game", data[1], data[5], data[9]);
