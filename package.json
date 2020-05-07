@@ -1,6 +1,7 @@
 {
   "devDependencies": {
     "prettier": "^2.0.5",
+    "replace-in-files-cli": "^0.3.1",
     "sort-json": "^2.0.0",
     "typescript": "^3.8.3"
   },
@@ -10,7 +11,7 @@
   "name": "stadia.observer",
   "private": true,
   "scripts": {
-    "build": "rm -rf docs/* && cp -r src/* data/* static/* docs/ && cp src/index.html docs/.htm && sort-json *.json */*.json; prettier --write src *.json */*.json && (tsc || echo \"type errors oh no\") && prettier --write docs"
+    "build": "bash ./build.bash"
   },
-  "version": "0.18.18"
+  "version": "2020.5.7"
 }
