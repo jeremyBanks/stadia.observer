@@ -1,4 +1,135 @@
 {
+  "05f66agbfcraytacrayta46027747a08": {
+    "app": "05f66a46027747a08b930ea70374ac7frcp1",
+    "description": "Crayta brings together players of all abilities and backgrounds to create and play multiplayer games with their families, friends, and the rest of the world. Create and collaborate in real-time, then share your games instantly with the Crayta community. Powerful, flexible, accessible, fun – game creation is now a game in itself!",
+    "internalSlug": "crayta",
+    "localKey": "05f66agbfcraytacrayta46027747a08",
+    "name": "Crayta",
+    "sku": "bf97db3ce0644a448815aef1a5c33e0a",
+    "type": "game"
+  },
+  "05f66ao2a500craytacreditscyoins5": {
+    "app": "05f66a46027747a08b930ea70374ac7frcp1",
+    "description": "Receive 500 Crayta Credits.",
+    "internalSlug": "crayta-coins-500",
+    "localKey": "05f66ao2a500craytacreditscyoins5",
+    "name": "500 Crayta Credits",
+    "prices": {
+      "basePriceCents": 699,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "2a3768c562814be282880052913ebc9d",
+    "type": "addon"
+  },
+  "05f66ao371000craytacreditsyoins1": {
+    "app": "05f66a46027747a08b930ea70374ac7frcp1",
+    "description": "Receive 1,000 Crayta Credits.",
+    "internalSlug": "crayta-coins-1000",
+    "localKey": "05f66ao371000craytacreditsyoins1",
+    "name": "1,000 Crayta Credits",
+    "prices": {
+      "basePriceCents": 1299,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "37f84e7b3bb348199a324ae548af8f84",
+    "type": "addon"
+  },
+  "05f66ao72craytadeluxeupgrdcytoin": {
+    "app": "05f66a46027747a08b930ea70374ac7frcp1",
+    "description": "Deluxe Edition upgrade for Crayta: Premium Edition.\nIncludes:\n• Mesmer Outfit Collection\n• Hexx Outfit Collection\n• Exclusive Digit Craytawear Colourway\n• Jellyfish Drone\n• Hocus Pocus Emote\n• Thunderbolt Emoticon\n• 2 Exclusive Icons\n• 5 Exclusive Sprays\n• XP Boost",
+    "internalSlug": "crayta-collector-edition",
+    "localKey": "05f66ao72craytadeluxeupgrdcytoin",
+    "name": "Crayta: Deluxe Upgrade",
+    "prices": {
+      "basePriceCents": 3499,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "7265f354d9ff454d81c20428505e991f",
+    "type": "addon"
+  },
+  "05f66ao84craytapremiumupgdecyton": {
+    "app": "05f66a46027747a08b930ea70374ac7frcp1",
+    "description": "Premium Edition upgrade, including free seasonal content throughout 2020.",
+    "internalSlug": "crayta-premium-edition",
+    "localKey": "05f66ao84craytapremiumupgdecyton",
+    "name": "Crayta: Premium Upgrade",
+    "sku": "843246253ef640a29bccebb19a404317",
+    "type": "addon"
+  },
+  "05f66axc4craytapremiumeditoncybl": {
+    "app": "05f66a46027747a08b930ea70374ac7frcp1",
+    "description": "Crayta brings together players of all abilities and backgrounds to create and play multiplayer games with their families, friends, and the rest of the world. Create and collaborate in real-time, then share your games instantly with the Crayta community. Powerful, flexible, accessible, fun – game creation is now a game in itself!\nThe Premium Edition also includes free seasonal content throughout 2020.",
+    "internalSlug": "crayta-premium-edition-bundle",
+    "localKey": "05f66axc4craytapremiumeditoncybl",
+    "name": "Crayta: Premium Edition",
+    "prices": {
+      "basePriceCents": 4999,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "c43eb98aaf8e455fb6faece785893268",
+    "skus": [
+      "bf97db3ce0644a448815aef1a5c33e0a",
+      "843246253ef640a29bccebb19a404317",
+      "2a3768c562814be282880052913ebc9d"
+    ],
+    "type": "bundle"
+  },
+  "05f66axf7craytadeluxeditioncryob": {
+    "app": "05f66a46027747a08b930ea70374ac7frcp1",
+    "description": "Crayta brings together players of all abilities and backgrounds to create and play multiplayer games with their families, friends, and the rest of the world. Create and collaborate in real-time, then share your games instantly with the Crayta community. Powerful, flexible, accessible, fun – game creation is now a game in itself!\nThe Deluxe Edition also includes:\n• Mesmer Outfit Collection\n• Hexx Outfit Collection\n• Exclusive Digit Craytawear Colourway\n• Jellyfish Drone\n• Hocus Pocus Emote\n• Thunderbolt Emoticon\n• 2 Exclusive Icons\n• 5 Exclusive Sprays\n• XP Boost\nAs well as the Premium Edition upgrade - free seasonal content throughout 2020",
+    "internalSlug": "crayta-collector-edition-bundle",
+    "localKey": "05f66axf7craytadeluxeditioncryob",
+    "name": "Crayta: Deluxe Edition",
+    "prices": {
+      "basePriceCents": 8499,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "f7aa7caf05e64d91af2063bf1803e947",
+    "skus": [
+      "bf97db3ce0644a448815aef1a5c33e0a",
+      "843246253ef640a29bccebb19a404317",
+      "7265f354d9ff454d81c20428505e991f",
+      "37f84e7b3bb348199a324ae548af8f84"
+    ],
+    "type": "bundle"
+  },
+  "0a60ffg77westofloathingwesflahin": {
+    "app": "0a60fff637b445a797623d0c69433a9crcp1",
+    "description": "Say howdy to West of Loathing -- a single-player slapstick comedy adventure role-playing game set in the wild west of the Kingdom of Loathing universe. Traverse snake-infested gulches, punch skeletons wearing cowboy hats, grapple with demon cows, and investigate a wide variety of disgusting spittoons. Talk your way out of trouble as a silver-tongued Snake Oiler, plumb the refried mysteries of the cosmos as a wise and subtle Beanslinger, or let your fists do the talking as a fierce Cow Puncher. Explore a vast open world and encounter a colorful cast of characters, some of whom are good, many of whom are bad, and a few of whom are ugly.",
+    "internalSlug": "West of Loathing",
+    "localKey": "0a60ffg77westofloathingwesflahin",
+    "name": "West of Loathing",
+    "prices": {
+      "basePriceCents": 1499,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "772119af45f44182bca3ff8d39f62b0b",
+    "type": "game"
+  },
   "10b8a9g25monopolygamecc8ec746f29": {
     "app": "10b8a9cc8ec746f29afc1fc3c3ded28brcp1",
     "description": "Grow your empire anywhere, anytime, with MONOPOLY for Stadia! Immerse yourself in a mix of the original family-favorite board game enriched with new ways to play: • Choose among three lively 3D boards • Play on-the-go, with up to 6 players • Not enough time for a full game? Enjoy new modes for faster sessions • Select your own rules and spice things up with the new Action Cards Trading your way to success has never been so fun!",
@@ -18,7 +149,7 @@
   },
   "11c9ecg06tomclancysghostrenbrkpi": {
     "app": "11c9ece5b3a045908d77cf2b66adb010rcp1",
-    "description": "Experience a military shooter set in a diverse & hostile open world that you can play solo or up to four-player co-op. FACE YOUR TOUGHEST ENEMIES With your own playstyle, take down the Wolves, ex-brothers-in-arms gone rogue and their leader Cole D. Walker. DISCOVER STADIA EXCLUSIVE FEATURE Enjoy a totally new social experience with Stream Connect, providing a real time view into another player’s game as it’s happening, so you can not only watch but interact with them instantly. Upgrade to the Gold Edition or Ultimate Edition to get the most out of your experience including the Year 1 Pass and more.",
+    "description": "Experience a military shooter set in a diverse &amp; hostile open world that you can play solo or up to four-player co-op. FACE YOUR TOUGHEST ENEMIES With your own playstyle, take down the Wolves, ex-brothers-in-arms gone rogue and their leader Cole D. Walker. DISCOVER STADIA EXCLUSIVE FEATURE Enjoy a totally new social experience with Stream Connect, providing a real time view into another player’s game as it’s happening, so you can not only watch but interact with them instantly. Upgrade to the Gold Edition or Ultimate Edition to get the most out of your experience including the Year 1 Pass and more.",
     "internalSlug": "game",
     "localKey": "11c9ecg06tomclancysghostrenbrkpi",
     "name": "Tom Clancy's Ghost Recon Breakpoint",
@@ -53,7 +184,7 @@
   },
   "11c9eco76ghostreconbreakpintya1p": {
     "app": "11c9ece5b3a045908d77cf2b66adb010rcp1",
-    "description": "Enhance your Ghost Recon  Breakpoint experience with the Year 1 Pass including The Siren's call Day 1 mission, two adventures continuing the main story (Deep State & Transcendence), early unlock for 3 new classes, the Special Operations Forces Pack.",
+    "description": "Enhance your Ghost Recon  Breakpoint experience with the Year 1 Pass including The Siren's call Day 1 mission, two adventures continuing the main story (Deep State &amp; Transcendence), early unlock for 3 new classes, the Special Operations Forces Pack.",
     "internalSlug": "year_one_pass",
     "localKey": "11c9eco76ghostreconbreakpintya1p",
     "name": "Ghost Recon Breakpoint: Year 1 Pass",
@@ -103,7 +234,7 @@
   },
   "11c9ecx10tomclancysghostrenbkpid": {
     "app": "11c9ece5b3a045908d77cf2b66adb010rcp1",
-    "description": "Upgrade your game experience with the Gold Edition, including the Year 1 Pass:  The Siren's call Day 1 mission, two adventures continuing the main story: Deep State & Transcendence, early unlock for 3 new classes & the Special Operations Forces Pack.  Experience a military shooter set in a diverse & hostile open world that you can play solo or up to four-player co-op. Enjoy a totally new social experience with Stream Connect, providing a real time view into another player’s game as it’s happening, so you can not only watch but interact with them instantly.",
+    "description": "Upgrade your game experience with the Gold Edition, including the Year 1 Pass:  The Siren's call Day 1 mission, two adventures continuing the main story: Deep State &amp; Transcendence, early unlock for 3 new classes &amp; the Special Operations Forces Pack.  Experience a military shooter set in a diverse &amp; hostile open world that you can play solo or up to four-player co-op. Enjoy a totally new social experience with Stream Connect, providing a real time view into another player’s game as it’s happening, so you can not only watch but interact with them instantly.",
     "internalSlug": "game_gold",
     "localKey": "11c9ecx10tomclancysghostrenbkpid",
     "name": "Tom Clancy's Ghost Recon Breakpoint - Gold Edition",
@@ -175,16 +306,25 @@
   },
   "20e792g49destiny270000001017ab34": {
     "app": "20e792017ab34ad89b70dc17a5c72d68rcp1",
-    "description": "Dive into the world of Destiny 2 to experience responsive FPS combat, explore the mysteries of our solar system, and unleash elemental abilities against powerful enemies. Experience Destiny 2’s cinematic story alone or with friends, join other Guardians for challenging co-op missions, or compete against them in a variety of PvP modes. See below for loot box odds.",
+    "description": "Dive into the world of Destiny 2 to experience responsive FPS combat, explore the mysteries of our solar system, and unleash elemental abilities against powerful enemies. Experience Destiny 2’s cinematic story alone or with friends, join other Guardians for challenging co-op missions, or compete against them in a variety of PvP modes.",
     "internalSlug": "70000001",
     "localKey": "20e792g49destiny270000001017ab34",
     "name": "Destiny 2",
     "sku": "4950959380034dcda0aecf98f675e11f",
     "type": "game"
   },
+  "20e792o31destiny2beolghrawpck106": {
+    "app": "20e792017ab34ad89b70dc17a5c72d68rcp1",
+    "description": "Purchase Destiny 2: Beyond Light + Season or Destiny 2: Beyond Light Deluxe Edition to receive the No Time to Explain Exotic Pulse Rifle and its Exotic Catalyst.",
+    "internalSlug": "10000006",
+    "localKey": "20e792o31destiny2beolghrawpck106",
+    "name": "Destiny 2: Beyond Light Stranger's Weapon Pack",
+    "sku": "31621796a59344d8acbce28bc6b93f7c",
+    "type": "addon"
+  },
   "20e792o5cstadiaproccesdetny2hl10": {
     "app": "20e792017ab34ad89b70dc17a5c72d68rcp1",
-    "description": "Dive into the world of Destiny 2 to experience responsive FPS combat, explore the mysteries of our solar system, and unleash elemental abilities against powerful enemies. Experience Destiny 2’s cinematic story alone or with friends, join other Guardians for challenging co-op missions, or compete against them in a variety of PvP modes. Destiny 2: The Collection includes Destiny 2, Destiny 2: Forsaken, and Destiny 2: Shadowkeep. See below for loot box odds.",
+    "description": "Dive into the world of Destiny 2 to experience responsive FPS combat, explore the mysteries of our solar system, and unleash elemental abilities against powerful enemies. Experience Destiny 2’s cinematic story alone or with friends, join other Guardians for challenging co-op missions, or compete against them in a variety of PvP modes. Destiny 2: The Collection includes Destiny 2, Destiny 2: Forsaken, and Destiny 2: Shadowkeep.",
     "internalSlug": "10000001",
     "localKey": "20e792o5cstadiaproccesdetny2hl10",
     "name": "Stadia Pro Access (Destiny 2: The Collection)",
@@ -200,6 +340,24 @@
     "sku": "6ae17ecb8ef044329109f23df572c0ef",
     "type": "addon"
   },
+  "20e792o71destiny2beolghraupck107": {
+    "app": "20e792017ab34ad89b70dc17a5c72d68rcp1",
+    "description": "Purchase Destiny 2: Beyond Light Deluxe Edition and receive the No Time to Explain Exotic Ornament and the Any Other Sky Exotic Sparrow.",
+    "internalSlug": "10000007",
+    "localKey": "20e792o71destiny2beolghraupck107",
+    "name": "Destiny 2: Beyond Light Stranger's Upgrade Pack",
+    "sku": "71c591eacc3f40039066333d72bfcfe2",
+    "type": "addon"
+  },
+  "20e792o75destiny2beyondlghxcm108": {
+    "app": "20e792017ab34ad89b70dc17a5c72d68rcp1",
+    "description": "Purchase Destiny 2: Beyond Light Deluxe Edition and receive instant access to the Freeze Tag Exotic Emote in Destiny 2.",
+    "internalSlug": "10000008",
+    "localKey": "20e792o75destiny2beyondlghxcm108",
+    "name": "Destiny 2: Beyond Light Exotic Emote",
+    "sku": "75b0de90ba31477694e85a0c400e321b",
+    "type": "addon"
+  },
   "20e792o7cdestiny2shadowkeep10003": {
     "app": "20e792017ab34ad89b70dc17a5c72d68rcp1",
     "description": "New nightmares have emerged from the shadows of our Moon. Called forth by haunting visions, Eris Morn has returned. Join her to slay these nightmares before they reach out beyond the Moon to cast humanity back into an age of darkness.",
@@ -207,6 +365,24 @@
     "localKey": "20e792o7cdestiny2shadowkeep10003",
     "name": "Destiny 2: Shadowkeep",
     "sku": "7c7818dfa9774281bdc6375402dc6e0a",
+    "type": "addon"
+  },
+  "20e792oa9destiny2beyondlight1004": {
+    "app": "20e792017ab34ad89b70dc17a5c72d68rcp1",
+    "description": "A new power is born out of the ancient Pyramid Ship above Europa's frozen frontier and a dark empire has risen beneath. Join your fellow Guardians and bring down the empire at any cost – even if it means wielding the Darkness itself. Explore the all-new destination, Europa and learn to wield Stasis, a new elemental power rooted in Darkness. Plus, a brand-new story, new rewards to earn, the new Deep Stone Crypt raid to conquer, and more.",
+    "internalSlug": "10000004",
+    "localKey": "20e792oa9destiny2beyondlight1004",
+    "name": "Destiny 2: Beyond Light",
+    "sku": "a90adc4febc0468a9d3aceb91cde19ba",
+    "type": "addon"
+  },
+  "20e792oeedestiny2beyolghprack105": {
+    "app": "20e792017ab34ad89b70dc17a5c72d68rcp1",
+    "description": "Pre-order to receive instant access to both the Rimed Exotic Ghost Shell and an Legendary Emblem in Destiny 2.",
+    "internalSlug": "10000005",
+    "localKey": "20e792oeedestiny2beyolghprack105",
+    "name": "Destiny 2: Beyond Light Pre-Order Pack",
+    "sku": "ee008ea2de714bdb811694c75a023d0f",
     "type": "addon"
   },
   "20e792x1fdestiny2forsaken2000002": {
@@ -251,6 +427,53 @@
     ],
     "type": "bundle"
   },
+  "20e792x3edestiny2beyondlightux07": {
+    "app": "20e792017ab34ad89b70dc17a5c72d68rcp1",
+    "description": "A new power is born out of the ancient Pyramid Ship above Europa's frozen frontier and a dark empire has risen beneath. Join your fellow Guardians and bring down the empire at any cost – even if it means wielding the Darkness itself. Explore the all new destination Europa and learn to wield Stasis, a new elemental power rooted in Darkness. Plus, a brand-new story, new rewards to earn, the new Deep Stone Crypt raid to conquer, and more. Get access to the No Time to Explain Exotic Pulse rifle, catalyst and ornament, a new Exotic Sparrow, and full access to Seasons 12 through 15. Pre-order now to get instant access to the new Exotic Rimed Ghost Shell, a new Legendary Emblem, and a new Exotic emote.",
+    "internalSlug": "20000007",
+    "localKey": "20e792x3edestiny2beyondlightux07",
+    "name": "Destiny 2: Beyond Light Deluxe Edition",
+    "prices": {
+      "basePriceCents": 8499,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "3e5dab36f21e466499f3449f13c98329",
+    "skus": [
+      "4950959380034dcda0aecf98f675e11f",
+      "a90adc4febc0468a9d3aceb91cde19ba",
+      "ee008ea2de714bdb811694c75a023d0f",
+      "31621796a59344d8acbce28bc6b93f7c",
+      "71c591eacc3f40039066333d72bfcfe2",
+      "75b0de90ba31477694e85a0c400e321b"
+    ],
+    "type": "bundle"
+  },
+  "20e792x53destiny2beyondlight2005": {
+    "app": "20e792017ab34ad89b70dc17a5c72d68rcp1",
+    "description": "A new power is born out of the ancient Pyramid Ship above Europa's frozen frontier and a dark empire has risen beneath. Join your fellow Guardians and bring down the empire at any cost – even if it means wielding the Darkness itself. Explore the all-new destination, Europa and learn to wield Stasis, a new elemental power rooted in Darkness. Plus, a brand-new story, new rewards to earn, the new Deep Stone Crypt raid to conquer, and more. Pre-order now to get instant access to the new Exotic Rimed Ghost Shell and a new Legendary Emblem.",
+    "internalSlug": "20000005",
+    "localKey": "20e792x53destiny2beyondlight2005",
+    "name": "Destiny 2: Beyond Light",
+    "prices": {
+      "basePriceCents": 4999,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "53ed0e18ae494c929dbec8262afcc915",
+    "skus": [
+      "4950959380034dcda0aecf98f675e11f",
+      "a90adc4febc0468a9d3aceb91cde19ba",
+      "ee008ea2de714bdb811694c75a023d0f"
+    ],
+    "type": "bundle"
+  },
   "20e792x58destiny2upgradeiton2004": {
     "app": "20e792017ab34ad89b70dc17a5c72d68rcp1",
     "description": "Experience all of Destiny 2’s cinematic story alone or with friends, join other Guardians for challenging co-op missions, or compete against them in a variety of PvP modes. You decide your legend. Includes the critically acclaimed expansions Forsaken and Shadowkeep.",
@@ -273,9 +496,32 @@
     ],
     "type": "bundle"
   },
+  "20e792x8edestiny2beyondlightsa06": {
+    "app": "20e792017ab34ad89b70dc17a5c72d68rcp1",
+    "description": "A new power is born out of the ancient Pyramid Ship above Europa's frozen frontier and a dark empire has risen beneath. Join your fellow Guardians and bring down the empire at any cost – even if it means wielding the Darkness itself. Explore the all-new destination, Europa and learn to wield Stasis, a new elemental power rooted in Darkness. Plus, a brand-new story, new rewards to earn, the new Deep Stone Crypt raid to conquer, and more. Get access to the No Time to Explain Exotic Pulse Rifle and catalyst, as well as full access to Season 12. Pre-order now to get instant access to the new Exotic Rimed Ghost Shell and a new Legendary Emblem.",
+    "internalSlug": "20000006",
+    "localKey": "20e792x8edestiny2beyondlightsa06",
+    "name": "Destiny 2: Beyond Light + Season",
+    "prices": {
+      "basePriceCents": 6299,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "8e894e5800a84b8aa6b8e277e5790a53",
+    "skus": [
+      "4950959380034dcda0aecf98f675e11f",
+      "a90adc4febc0468a9d3aceb91cde19ba",
+      "ee008ea2de714bdb811694c75a023d0f",
+      "31621796a59344d8acbce28bc6b93f7c"
+    ],
+    "type": "bundle"
+  },
   "20e792xbddestiny2thecollcion2001": {
     "app": "20e792017ab34ad89b70dc17a5c72d68rcp1",
-    "description": "Dive into the world of Destiny 2 to experience responsive FPS combat, explore the mysteries of our solar system, and unleash elemental abilities against powerful enemies. Experience Destiny 2’s cinematic story alone or with friends, join other Guardians for challenging co-op missions, or compete against them in a variety of PvP modes. Destiny 2: The Collection includes Destiny 2, Destiny 2: Forsaken, and Destiny 2: Shadowkeep. See below for loot box odds.",
+    "description": "Dive into the world of Destiny 2 to experience responsive FPS combat, explore the mysteries of our solar system, and unleash elemental abilities against powerful enemies. Experience Destiny 2’s cinematic story alone or with friends, join other Guardians for challenging co-op missions, or compete against them in a variety of PvP modes. Destiny 2: The Collection includes Destiny 2, Destiny 2: Forsaken, and Destiny 2: Shadowkeep.",
     "internalSlug": "20000001",
     "localKey": "20e792xbddestiny2thecollcion2001",
     "name": "Destiny 2: The Collection",
@@ -322,7 +568,7 @@
   },
   "2152a1oe9reddearmption2spcialton": {
     "app": "2152a1e96d5b47b18a5df7ca9bb0751frcp1",
-    "description": "The Red Dead Redemption 2 Special Edition delivers exclusive content for Story Mode including a Bank Robbery Mission & Gang Hideout, Dappled Black Thoroughbred, Talisman & Medallion Gameplay Bonuses, Gameplay Boosts, Cash Bonuses & Discounts, and the Nuevo Paraiso Gunslinger Outfit, plus free access to Additional Weapons.",
+    "description": "The Red Dead Redemption 2 Special Edition delivers exclusive content for Story Mode including a Bank Robbery Mission &amp; Gang Hideout, Dappled Black Thoroughbred, Talisman &amp; Medallion Gameplay Bonuses, Gameplay Boosts, Cash Bonuses &amp; Discounts, and the Nuevo Paraiso Gunslinger Outfit, plus free access to Additional Weapons.",
     "internalSlug": "dlc_specialedition",
     "localKey": "2152a1oe9reddearmption2spcialton",
     "name": "Red Dead Redemption 2:  Special Edition Content",
@@ -353,7 +599,7 @@
   },
   "2152a1x63reddearmption2spcialtbu": {
     "app": "2152a1e96d5b47b18a5df7ca9bb0751frcp1",
-    "description": "The Red Dead Redemption 2 Special Edition delivers exclusive content for Story Mode including a Bank Robbery Mission & Gang Hideout, Dappled Black Thoroughbred, Talisman & Medallion Gameplay Bonuses, Gameplay Boosts, Cash Bonuses & Discounts, and the Nuevo Paraiso Gunslinger Outfit, plus free access to Additional Weapons.",
+    "description": "The Red Dead Redemption 2 Special Edition delivers exclusive content for Story Mode including a Bank Robbery Mission &amp; Gang Hideout, Dappled Black Thoroughbred, Talisman &amp; Medallion Gameplay Bonuses, Gameplay Boosts, Cash Bonuses &amp; Discounts, and the Nuevo Paraiso Gunslinger Outfit, plus free access to Additional Weapons.",
     "internalSlug": "special_ed_bundle",
     "localKey": "2152a1x63reddearmption2spcialtbu",
     "name": "Red Dead Redemption 2:  Special Edition",
@@ -374,7 +620,7 @@
   },
   "2afad3gb6nba2k20nba2k20696b394f6": {
     "app": "2afad3696b394f669b49e4c0b6016958rcp1",
-    "description": "NBA 2K has evolved into much more than a basketball simulation. 2K continues to redefine what’s possible in sports gaming with NBA 2K20, featuring best in class graphics & gameplay, ground breaking game modes, and unparalleled player control and customization. Plus, with its immersive open-world Neighborhood, NBA 2K20 is a platform for gamers and ballers to come together and create what’s next in basketball culture. See MyTEAM Pack Drop Rates below.",
+    "description": "NBA 2K has evolved into much more than a basketball simulation. 2K continues to redefine what’s possible in sports gaming with NBA 2K20, featuring best in class graphics &amp; gameplay, ground breaking game modes, and unparalleled player control and customization. Plus, with its immersive open-world Neighborhood, NBA 2K20 is a platform for gamers and ballers to come together and create what’s next in basketball culture. See MyTEAM Pack Drop Rates below.",
     "internalSlug": "NBA2K20",
     "localKey": "2afad3gb6nba2k20nba2k20696b394f6",
     "name": "NBA 2K20",
@@ -449,6 +695,78 @@
     ],
     "type": "bundle"
   },
+  "3aed85g77littlenightmaresnghmars": {
+    "app": "3aed855f10b34f618e5f6c6f5467bcf9rcp1",
+    "description": "Immerse yourself in Little Nightmares, a dark whimsical tale that will confront you with your childhood fears! Help Six escape The Maw – a vast, mysterious vessel inhabited by corrupted souls looking for their next meal. As you progress on your journey, explore the most disturbing dollhouse offering a prison to escape from and a playground full of secrets to discover. Reconnect with your inner child to unleash your imagination and find the way out!",
+    "internalSlug": "LittleNightmares",
+    "localKey": "3aed85g77littlenightmaresnghmars",
+    "name": "Little Nightmares",
+    "prices": {
+      "basePriceCents": null,
+      "baseSalePriceCents": null,
+      "countryCode": "??",
+      "currencyCode": "???",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "77ab8b1807a849e3991826d8d7a9e3e0",
+    "type": "game"
+  },
+  "3aed85obalittlenighmaresscofwxpd": {
+    "app": "3aed855f10b34f618e5f6c6f5467bcf9rcp1",
+    "description": "Can't get enough of Little Nightmares? Unveil all the secrets of The Maw in a parallel escape story where you play as the Runaway Kid, another prisoner looking for a way out of this place of misfortune. On his journey, The Kid will explore The Depths, The Hideway and another hidden part of The Maw offering a different perspective on Six’s adventures as well as new challenges to overcome.",
+    "internalSlug": "DLC",
+    "localKey": "3aed85obalittlenighmaresscofwxpd",
+    "name": "Little Nightmares Secrets of The Maw Expansion Pass",
+    "prices": {
+      "basePriceCents": 1299,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "ba538bceb5494eb3a3b53dafec0a0bf3",
+    "type": "addon"
+  },
+  "3aed85x36littlenighmarescompdobu": {
+    "app": "3aed855f10b34f618e5f6c6f5467bcf9rcp1",
+    "description": "INCLUDES - Little Nightmares™ - Little Nightmares™ Secrets of The Maw. Immerse yourself in Little Nightmares, a dark whimsical tale that will confront you with your childhood fears! Help Six escape The Maw – a vast, mysterious vessel inhabited by corrupted souls looking for their next meal. Unveil all the secrets in a parallel escape story where you play as the Runaway Kid, another prisoner looking for a way out of this place of misfortune. On his journey, The Kid will explore hidden parts of The Maw offering a different perspective on Six’s adventures.",
+    "internalSlug": "LittleNightmaresBundle",
+    "localKey": "3aed85x36littlenighmarescompdobu",
+    "name": "Little Nightmares Complete Edition",
+    "prices": {
+      "basePriceCents": 3799,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "366a682e5f1645b3a242507ae431c918",
+    "skus": [
+      "77ab8b1807a849e3991826d8d7a9e3e0",
+      "ba538bceb5494eb3a3b53dafec0a0bf3"
+    ],
+    "type": "bundle"
+  },
+  "3e7b24g59wavebreak1d5df9064c382p": {
+    "app": "3e7b24085e704c10ab03f93a19947c14rcp1",
+    "description": "Wave Break is a classic arcade-style skate tricking game, with a splash of water, guns and explosions - set in an 80s crime-filled Miami Vice themed world. Score massive points with massive combos, play with friends online, or enjoy the single player campaign mode.",
+    "internalSlug": "1d5d5f9ea006409cb1b11c93f895329capp1",
+    "localKey": "3e7b24g59wavebreak1d5df9064c382p",
+    "name": "Wave Break",
+    "prices": {
+      "basePriceCents": 3399,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "599a08652fad4a41baad8591e18e83e2",
+    "type": "game"
+  },
   "40e163c59stadiaprostadiprosubcrn": {
     "app": "40e16388602345889aa807762ea67d20rcp1",
     "description": "Stadia Pro is Stadia's premium subscription service and your gateway to the best that Stadia has to offer.",
@@ -457,19 +775,28 @@
     "name": "Stadia Pro",
     "sku": "59c8314ac82a456ba61d08988b15b550",
     "skus": [
-      "a7b1581491ea4b7c9fcc89710561f5f7",
-      "e8ed70244808408cbb7d3b2b1f06547f",
-      "f47a1e1e9f0b43078e0a80c57068b085",
+      "2d155b69c4af46078db2d96a8b0e6883",
+      "de1e97332f1148468759dfc4553edad9",
+      "12f3e5611c34478fb0285c6de4f2a8aa",
+      "fa63c6e891ff4d1bb76c4ac7580c119a",
+      "c43eb98aaf8e455fb6faece785893268",
+      "a8918900bd834426ab8f5a55fba998c7",
+      "772119af45f44182bca3ff8d39f62b0b",
       "bd70626ec3834dedbc6dda5b956f7648",
-      "75be643ff0fb40d7873fa41edb10d98a",
-      "9ac5597c3f4a4e648c9ae56bac3d1b32",
-      "be9526126d394061b0eef9b16352357e",
-      "b54873e3768140b9805664a220969929",
-      "7ed521aacf2a44168fb99cd1e13472ad",
-      "f16b28e2fd224acaafeee4c19134adb4",
-      "45918155e78145af937b5df1a574afd2",
+      "480a6d783c834b9faa5c995f69b49431",
+      "77ab8b1807a849e3991826d8d7a9e3e0",
+      "e8ed70244808408cbb7d3b2b1f06547f",
+      "ce8a411f4dc2470da828fc259c584aa5",
+      "a1afa4eca7b24713a9bcf3421dd85a13",
       "90f5bd9270024986b26ee8221c1fa2e4",
-      "a1afa4eca7b24713a9bcf3421dd85a13"
+      "f47a1e1e9f0b43078e0a80c57068b085",
+      "9ac5597c3f4a4e648c9ae56bac3d1b32",
+      "ac819b64342841eda35cebfd3a34c769",
+      "fe5459c281d9443ca8f0e420f59936fc",
+      "75be643ff0fb40d7873fa41edb10d98a",
+      "a6ffc113bea9495b84581796893ebf50",
+      "f6658df6c8874c828532d5d24c66d58f",
+      "38f772ac664545d99890ebb460d1d894"
     ],
     "type": "subscription"
   },
@@ -556,6 +883,23 @@
       "proSalePriceCents": null
     },
     "sku": "bcdca49dcac843f98ddb10e06ba83ee9",
+    "type": "game"
+  },
+  "5ec442g78sunderedeldritchitionsu": {
+    "app": "5ec4424b963f44d18d0016322c19c9f0rcp1",
+    "description": "Sundered is a chaotic hand­-drawn metroidvania where you resist or embrace ancient eldritch powers. Confront hordes of terrifying enemies in an ever-changing world inspired by the works of H.P. Lovecraft. Sundered is a challenging and unique take on a classic genre from the creators of Jotun, now with local co-op! You play Eshe, a wanderer in a ruined world, trapped in ever-­changing caverns filled with hordes of terrifying enemies. Harness the power of corrupted relics to defeat gigantic bosses, at the cost of your humanity. Resist or embrace.",
+    "internalSlug": "sundered",
+    "localKey": "5ec442g78sunderedeldritchitionsu",
+    "name": "Sundered: Eldritch Edition",
+    "prices": {
+      "basePriceCents": 2299,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "788a1f7b00f74b26b12d7c6d62d50d96",
     "type": "game"
   },
   "632522g17doometernaldmebattlemod": {
@@ -646,6 +990,40 @@
     ],
     "type": "bundle"
   },
+  "6b43cega8justshapesbeatjuthapndb": {
+    "app": "6b43cecd79734ba28cef5894985c65f1rcp1",
+    "description": "Just Shapes &amp; Beats is a chaotic co-op musical bullet-hell based on three simple things: avoid Shapes, move to the rad Beats, and die, repeatedly. It’s a new spin on SHMUPs, adding a layer of coop that's at the core of the game: 'cause everything is better with friends.",
+    "internalSlug": "JUSTSHAPESANDBEATS",
+    "localKey": "6b43cega8justshapesbeatjuthapndb",
+    "name": "Just Shapes & Beats",
+    "prices": {
+      "basePriceCents": 2299,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "a8918900bd834426ab8f5a55fba998c7",
+    "type": "game"
+  },
+  "6d0d86g16laracroftndtheempsi1605": {
+    "app": "6d0d865669774338b3ce888a84da6cdercp1",
+    "description": "Lara Croft and the Temple of Osiris is the sequel to the critically-acclaimed Lara Croft and the Guardian of Light, and the first-ever four-player co-op experience with Lara Croft. Featuring stunning visuals and a brand-new story, players must work together to explore the temple, defeat hordes of enemies from the Egyptian underworld, solve devious puzzles, and avoid deadly traps. All the while, players will compete for treasure, powerful artifacts, and ultimate bragging rights.",
+    "internalSlug": "11601500",
+    "localKey": "6d0d86g16laracroftndtheempsi1605",
+    "name": "Lara Croft and the Temple of Osiris",
+    "prices": {
+      "basePriceCents": 2699,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "163efc95783a4c39839c218b75e36127",
+    "type": "game"
+  },
   "731828ga6getpackedgetpacked69b2a": {
     "app": "73182869b2a644bdbef46984b96e1721rcp1",
     "description": "Get Packed is a couch co-op removals game full of calamity and physics-based carnage for 1-4 players. When a greedy salt mining company takes over Ditchlington, Last Ditch Removals must handle the hostile eviction. With little time and even less caution, your ragtag removals team gets to work rapidly relocating the entire town… leaving a trail of destruction, explosions, and furniture fragments in your wake! Are you ready for some destructive fun with friends? Things you'll love: 1 - 4 player local and online co-op. Campaign and Destruction game modes. Co-op chaos and carnage across 12 locations. 4 Customizable/Playable characters",
@@ -663,14 +1041,31 @@
     "sku": "a6ffc113bea9495b84581796893ebf50",
     "type": "game"
   },
+  "76309bg55onehandclappigerlycssgm": {
+    "app": "76309b9f2f294b07b410e8b6aa879273rcp1",
+    "description": "Stadia Early Access Disclaimer:\nThis game is an unfinished product; it might have playability issues (including the potential loss of save progress), change without notice, and may or may not be updated further or completed. Purchase only if you want to play the game in its current state of development. You may lose access if the publisher does not finish the game. Learn more about early access [https://support.google.com/stadia?p=early_access].\n\nWe wanted to give you access to the game as soon as possible. The first version contains about a third of the desert area and can be solved in 10 to 20 minutes. We plan to update the game with additional content in a two month interval. The full game will be released in the second half of 2021 with a playtime of 3-4 hours. Microphone is currently not supported on mobile! Please head to our official Community Site [https://discord.gg/BmdxDDj] to join the discussions!\n\nExperience a 2D platformer with a very unique mechanic: change the world with your voice! One Hand Clapping lets you discover the power that rests within your vocal cords while solving unique puzzles that will require rhythm and a good ear. You must build confidence in your singing voice and explore several different mechanics to overcome harmonic and pitch-focused challenges. Don’t be afraid of hitting the wrong notes, it is all about taking risks and learning from your mistakes. Find out how far your voice can take you! - Please be aware, that this game is still in early development and new features and levels will be added in future updates.",
+    "internalSlug": "game",
+    "localKey": "76309bg55onehandclappigerlycssgm",
+    "name": "One Hand Clapping - Early Access",
+    "prices": {
+      "basePriceCents": 399,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "55b718bf03544bd3a9f6a62946fe7436",
+    "type": "game"
+  },
   "7bfbcbgf3mortalkomba1f54762d8e90": {
     "app": "7bfbcba307114ab88ae4231da2ec85d3rcp1",
-    "description": "Mortal Kombat 11 is the latest installment in the critically acclaimed franchise, providing a deeper and more personalized experience than ever before. The all new Custom Character Variations give you unprecedented control of your fighters to make them your own.",
+    "description": "Mortal Kombat&nbsp;11 is the latest installment in the critically acclaimed franchise, providing a deeper and more personalized experience than ever before. The all new Custom Character Variations give you unprecedented control of your fighters to make them your own.",
     "internalSlug": "f5545762-ddf1-4746-8ba2-e98d805bf066",
     "localKey": "7bfbcbgf3mortalkomba1f54762d8e90",
     "name": "Mortal Kombat 11",
     "prices": {
-      "basePriceCents": 7999,
+      "basePriceCents": 6999,
       "baseSalePriceCents": null,
       "countryCode": "CA",
       "currencyCode": "CAD",
@@ -697,14 +1092,31 @@
     "sku": "018fd8b8c01d496cb4917d43645c14b5",
     "type": "addon"
   },
+  "7bfbcbo09sheeva050327597b64f8cd1": {
+    "app": "7bfbcba307114ab88ae4231da2ec85d3rcp1",
+    "description": "The male Shokan scoffed when Sheeva entered their contest to choose the Shokan's next leader. But Sheeva proved herself more than their equal. After a resounding victory, she was crowned the first Queen of the Shokan. As Queen, Sheeva now leads her people in the fight to attain their rightful place, as partners in Outworld's rule.",
+    "internalSlug": "05032759-7ba6-4f30-8c7a-cdec061cae7f",
+    "localKey": "7bfbcbo09sheeva050327597b64f8cd1",
+    "name": "Sheeva",
+    "prices": {
+      "basePriceCents": 799,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "09a2304b45aa4847a31ccd51993462ff",
+    "type": "addon"
+  },
   "7bfbcbo14mortalkomba1pc437f2e06d": {
     "app": "7bfbcba307114ab88ae4231da2ec85d3rcp1",
-    "description": "The Kombat Pack is the best way to upgrade your Mortal Kombat Standard Edition. The Kombat Pack includes: 6 new add-on playable characters including Shang Tsung, Nightwolf, Terminator T-800, Sindel, The Joker and Spawn - Skins & gear sets with each add-on character - 6 themed skin packs including the Klassic Arcade Ninjas, Klassic Arcade Fighters and more",
+    "description": "Kombat Pack includes:\n• 6 new add-on playable characters including Shang Tsung, Nightwolf, Terminator T-800, Sindel, The Joker and Spawn\n• 7 Kombat Pack Exclusive Character Skins for Johnny Cage, Sonya Blade, Cassie Cage, Jacqui Briggs, Geras and Shang Tsung\n• 6 themed Skin Packs including the Klassic Arcade Ninjas, Klassic Arcade Fighters, Double Feature, Gothic Horror, Matinee and DC Elseworlds",
     "internalSlug": "4a317f2f-4e06-4dd0-ab63-311a7aeda4ee",
     "localKey": "7bfbcbo14mortalkomba1pc437f2e06d",
     "name": "Mortal Kombat 11 Kombat Pack",
     "prices": {
-      "basePriceCents": 4999,
+      "basePriceCents": 2499,
       "baseSalePriceCents": null,
       "countryCode": "CA",
       "currencyCode": "CAD",
@@ -714,9 +1126,26 @@
     "sku": "1492d4fcf167420cb227a5579f447016",
     "type": "addon"
   },
+  "7bfbcbo16matineeskinpc4197d638fb": {
+    "app": "7bfbcba307114ab88ae4231da2ec85d3rcp1",
+    "description": "This item is already included in the Kombat Pack. Three new character skins. The Matinee Skin Pack includes Osh-Tekk Vandal Kotal Kahn, Swashbuckler Erron Black, and Space Marine Jacqui Briggs.",
+    "internalSlug": "4a14c997-d6e3-46d6-a3ec-8f74fb71d8cf",
+    "localKey": "7bfbcbo16matineeskinpc4197d638fb",
+    "name": "Matinee Skin Pack",
+    "prices": {
+      "basePriceCents": 799,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "166c9a081fd244d5a0450b10bf244a81",
+    "type": "addon"
+  },
   "7bfbcbo20klasicrdefghtp2b8091654": {
     "app": "7bfbcba307114ab88ae4231da2ec85d3rcp1",
-    "description": "This item is already included in the Kombat Pack. Three new character skins. The Klassic Arcade Fighter Pack outfits Mortal Kombat 11 characters Jax, Kung Lao and Kano in Klassic, Arcade inspired costumes.",
+    "description": "This item is already included in the Kombat Pack. Three new character skins. The Klassic Arcade Fighter Pack outfits Mortal&nbsp;Kombat&nbsp;11 characters Jax, Kung Lao and Kano in Klassic, Arcade inspired costumes.",
     "internalSlug": "2bc8091c-2065-4df5-9490-ea6bd590528e",
     "localKey": "7bfbcbo20klasicrdefghtp2b8091654",
     "name": "Klassic Arcade Fighter Pack",
@@ -765,9 +1194,43 @@
     "sku": "4a4fabe8ed9942ed9ca5fa9111f3934f",
     "type": "addon"
   },
+  "7bfbcbo56spawn59615c0cab44ef83d7": {
+    "app": "7bfbcba307114ab88ae4231da2ec85d3rcp1",
+    "description": "Al Simmons, once the U.S. government's greatest soldier and most effective assassin, was mercilessly executed by his own men. Resurrected from the ashes of his own grave in a flawed agreement with the powers of darkness, Simmons is reborn as a creature from the depths of Hell. A Hellspawn. Now he is thrust into the world of Mortal Kombat, where he will fight for supremacy against all Kombatants.",
+    "internalSlug": "59615c50-cab4-4ef8-83a6-fd83a7a3bf75",
+    "localKey": "7bfbcbo56spawn59615c0cab44ef83d7",
+    "name": "Spawn",
+    "prices": {
+      "basePriceCents": 799,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "56eca827816d43b88344c10b063e9cfc",
+    "type": "addon"
+  },
+  "7bfbcbo58robocp7ec7a533d24948b06": {
+    "app": "7bfbcba307114ab88ae4231da2ec85d3rcp1",
+    "description": "Alex Murphy was a dutiful police officer who was brutally executed by a local gang. Brought back to life through OCP technology, Murphy was transformed into RoboCop, a highly advanced cybernetic police officer designed to uphold the law and protect the innocent. Now entering the Mortal Kombat universe, RoboCop has received a few upgrades and is ready to serve the public by apprehending any Kombatants that stand in his way.",
+    "internalSlug": "7ec7a537-3d32-4947-8b30-9be577047576",
+    "localKey": "7bfbcbo58robocp7ec7a533d24948b06",
+    "name": "RoboCop",
+    "prices": {
+      "basePriceCents": 799,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "5886db0ca237421b82bbc2349d22c972",
+    "type": "addon"
+  },
   "7bfbcbo7eklasicrdenjp19860bf4372": {
     "app": "7bfbcba307114ab88ae4231da2ec85d3rcp1",
-    "description": "This item is already included in the Kombat Pack. Three new character skins. The Klassic Arcade Ninja Skin Pack outfits Mortal Kombat 11 characters Scorpion, Sub-Zero and Noob Saibot in Klassic, Arcade inspired costumes.",
+    "description": "This item is already included in the Kombat Pack. Three new character skins. The Klassic Arcade Ninja Skin Pack outfits Mortal Kombat&nbsp;11 characters Scorpion, Sub-Zero and Noob Saibot in Klassic, Arcade inspired costumes.",
     "internalSlug": "98600abf-ddbc-40ad-9010-3a637027eea6",
     "localKey": "7bfbcbo7eklasicrdenjp19860bf4372",
     "name": "Klassic Arcade Ninja Skin Pack 1",
@@ -780,6 +1243,142 @@
       "proSalePriceCents": null
     },
     "sku": "7ed368fdc86c45c5a61a44191bd0fa36",
+    "type": "addon"
+  },
+  "7bfbcbo83shaokahn9910f3d261845bc": {
+    "app": "7bfbcba307114ab88ae4231da2ec85d3rcp1",
+    "description": "Play as Shao Kahn, fully playable character. Emperor of Outworld. For millennia, Shao Kahn dominated the realms, rapidly expanding his Empire by conquest. But when he set out to claim Earthrealm, he was blocked by the rules of Mortal Kombat. Deterred but determined, Shao Kahn demands absolute victory.",
+    "internalSlug": "9910f3d2-618a-4835-bd64-4359bfcc3909",
+    "localKey": "7bfbcbo83shaokahn9910f3d261845bc",
+    "name": "Shao Kahn",
+    "prices": {
+      "basePriceCents": 799,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "83cf93c9e14c4f5fa1260023020a6ff6",
+    "type": "addon"
+  },
+  "7bfbcbo8cmortalkomba1feh04cd9582": {
+    "app": "7bfbcba307114ab88ae4231da2ec85d3rcp1",
+    "description": "Experience MK's first-ever major expansion. Aftermath features a brand-new cinematic story centered around trust and deceit. Forge a new history.\n\nIncludes:\n• All-New Cinematic Story\n• 3 New Playable Fighters - Sheeva, Fujin &amp; guest RoboCop\n• 3 New Skin Packs",
+    "internalSlug": "04c4fda9-ab45-4ef0-8aa2-4d4281b9e8a8",
+    "localKey": "7bfbcbo8cmortalkomba1feh04cd9582",
+    "name": "Mortal Kombat 11: Aftermath",
+    "prices": {
+      "basePriceCents": 4999,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "8c37998b9fea41c89daa7a243a272fd2",
+    "type": "addon"
+  },
+  "7bfbcbo93fujina374a1e38cf45b6d09": {
+    "app": "7bfbcba307114ab88ae4231da2ec85d3rcp1",
+    "description": "The God of Wind, Fujin serves the Elder Gods alongside his brother, Raiden, as Protectors of Earthrealm. Affable and lighthearted, he's adept at inspiring peoples' innate capacity for goodness and heroism to conquer forces of hatred and tyranny. Fujin believes Earthrealm's best days are still to come, and he fights to ensure that bright future.",
+    "internalSlug": "a374a1e3-8cfa-45a8-b6d0-463e195047b5",
+    "localKey": "7bfbcbo93fujina374a1e38cf45b6d09",
+    "name": "Fujin",
+    "prices": {
+      "basePriceCents": 799,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "93e85c685a76480393e085f24944b8cf",
+    "type": "addon"
+  },
+  "7bfbcbo9csindeled3b11f29b448275c": {
+    "app": "7bfbcba307114ab88ae4231da2ec85d3rcp1",
+    "description": "The former Queen of Edenia will stop at nothing to keep her place. When threatened with the loss of her throne when Shao Kahn conquered her realm, Sindel betrayed her husband, and her people, to keep her privileged position. Now Shao Kahn's wife and Queen of Outworld, she enjoys power and wealth beyond most people's imagination. Good luck to anyone who tries to take it from her.",
+    "internalSlug": "ed3be11f-29b4-482d-81f4-7325f33ec43b",
+    "localKey": "7bfbcbo9csindeled3b11f29b448275c",
+    "name": "Sindel",
+    "prices": {
+      "basePriceCents": 799,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "9c1030c0644f4ab583be198548152576",
+    "type": "addon"
+  },
+  "7bfbcboa8gothicrsknpa04e751f6b2d": {
+    "app": "7bfbcba307114ab88ae4231da2ec85d3rcp1",
+    "description": "This item is already included in the Kombat Pack. Three new character skins. The Gothic Horror Skin Pack includes Goddess of the Damned Cetrion, Kronika's Monster Geras, and Impaler Raiden.",
+    "internalSlug": "ca044e75-11f4-46f1-a7b6-7542222d2425",
+    "localKey": "7bfbcboa8gothicrsknpa04e751f6b2d",
+    "name": "Gothic Horror Skin Pack",
+    "prices": {
+      "basePriceCents": 799,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "a87100bea7ae42439c010becef0ca358",
+    "type": "addon"
+  },
+  "7bfbcbobcdcelsworkinpa9762f1b450": {
+    "app": "7bfbcba307114ab88ae4231da2ec85d3rcp1",
+    "description": "This item is already included in the Kombat Pack. Three new character skins. The DC Elseworlds Skin Pack delivers DC Comics inspired versions of Mortal Kombat characters including Darkest Knight Noob Saibot, Killer Krok Baraka and Katwoman of Outworld Kitana.",
+    "internalSlug": "976222df-1b9f-4279-b5c5-467033ba5853",
+    "localKey": "7bfbcbobcdcelsworkinpa9762f1b450",
+    "name": "DC Elseworlds Skin Pack",
+    "prices": {
+      "basePriceCents": 799,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "bc0aa265c29a4ebe9d7eb454e518c651",
+    "type": "addon"
+  },
+  "7bfbcboc6thejokerc53c411bb046908": {
+    "app": "7bfbcba307114ab88ae4231da2ec85d3rcp1",
+    "description": "Unpredictable, violent and incredibly dangerous, The Joker is chaos personified. He's killed a Robin, crippled Batgirl and tortured and murdered countless people throughout the DC universe. And now, he's the latest Kombatant to join in Mortal Kombat.",
+    "internalSlug": "c53ce411-bb0c-4690-b485-c119e1ecb909",
+    "localKey": "7bfbcboc6thejokerc53c411bb046908",
+    "name": "The Joker",
+    "prices": {
+      "basePriceCents": 799,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "c6dca6e721894c4eb2229acc74c22f9d",
+    "type": "addon"
+  },
+  "7bfbcbocbmortalkb1fehpcund095437": {
+    "app": "7bfbcba307114ab88ae4231da2ec85d3rcp1",
+    "description": "Includes Aftermath and Kombat Pack.\n\nExperience MK's first-ever major expansion. Aftermath features a brand-new cinematic story centered around trust and deceit. Forge a new history.\n\n• All-New Cinematic Story\n• 3 New Playable Fighters - Sheeva, Fujin &amp; RoboCop\n• 3 New Skin Packs",
+    "internalSlug": "0eac0e9c-551d-4a50-ac13-7df8f9268ed7",
+    "localKey": "7bfbcbocbmortalkb1fehpcund095437",
+    "name": "Mortal Kombat 11: Aftermath + Kombat Pack Bundle",
+    "prices": {
+      "basePriceCents": 5999,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "cb723734e9204c51b81f01c3ae27947f",
     "type": "addon"
   },
   "7bfbcboe9nightwolf951c38ae24db06": {
@@ -799,36 +1398,48 @@
     "sku": "e94c4b9ada3e43a89fe92e86e83ed092",
     "type": "addon"
   },
-  "7bfbcbx69mortalkb1peiudn7c294835": {
+  "7bfbcbxeamortalkb1fehcin460d7352": {
     "app": "7bfbcba307114ab88ae4231da2ec85d3rcp1",
-    "description": "Mortal Kombat 11 is the latest installment in the critically acclaimed franchise, providing a deeper and more personalized experience than ever before. The all new Custom Character Variations give you unprecedented control of your fighters to make them your own. The Mortal Kombat 11 Premium Edition includes: Main Game, Kombat Pack. The Kombat Pack includes: 6 new add-on playable characters, released over time - 7 exclusive Character Skins - 7 exclusive sets of gear",
-    "internalSlug": "7dc2dac2-c9e7-4988-9b14-37cb58ff69f1",
-    "localKey": "7bfbcbx69mortalkb1peiudn7c294835",
-    "name": "Mortal Kombat 11 Premium Edition",
+    "description": "Includes Mortal Kombat&nbsp;11, Kombat Pack and MK11: Aftermath.\n\n• Experience the original MK11 cinematic story and Aftermath, the brand new story conclusion\n• Play as the entire 34-character MK11 roster incl. new fighters Sheeva, Fujin and RoboCop\n• All-New Friendships &amp; Stage Fatalities",
+    "internalSlug": "460d4763-5b27-4ee4-a512-16bf1125522f",
+    "localKey": "7bfbcbxeamortalkb1fehcin460d7352",
+    "name": "Mortal Kombat 11: Aftermath Kollection",
     "prices": {
-      "basePriceCents": 12999,
+      "basePriceCents": 7999,
       "baseSalePriceCents": null,
       "countryCode": "CA",
       "currencyCode": "CAD",
       "proPriceCents": null,
       "proSalePriceCents": null
     },
-    "sku": "69713a38ec1a48f5aed02a24752540cb",
+    "sku": "ea65fc37d8504a518edad7534af3fc36",
     "skus": [
       "f3f250e8a4d54f60ba730fbc04268052",
+      "8c37998b9fea41c89daa7a243a272fd2",
+      "cb723734e9204c51b81f01c3ae27947f",
       "1492d4fcf167420cb227a5579f447016",
+      "83cf93c9e14c4f5fa1260023020a6ff6",
       "4a4fabe8ed9942ed9ca5fa9111f3934f",
       "e94c4b9ada3e43a89fe92e86e83ed092",
       "20ef71dd341a4fb38423fb207d6c4455",
       "7ed368fdc86c45c5a61a44191bd0fa36",
       "018fd8b8c01d496cb4917d43645c14b5",
-      "294cbfab6a0e4d7db0d540968af2fbc7"
+      "294cbfab6a0e4d7db0d540968af2fbc7",
+      "9c1030c0644f4ab583be198548152576",
+      "a87100bea7ae42439c010becef0ca358",
+      "c6dca6e721894c4eb2229acc74c22f9d",
+      "bc0aa265c29a4ebe9d7eb454e518c651",
+      "56eca827816d43b88344c10b063e9cfc",
+      "166c9a081fd244d5a0450b10bf244a81",
+      "93e85c685a76480393e085f24944b8cf",
+      "09a2304b45aa4847a31ccd51993462ff",
+      "5886db0ca237421b82bbc2349d22c972"
     ],
     "type": "bundle"
   },
   "80a70cg66dragonballxenoverse2gam": {
     "app": "80a70c13987841b3a2aedbcac54784abrcp1",
-    "description": "DRAGON BALL XENOVERSE 2 gives players the ultimate DRAGON BALL gaming experience! Develop your own warrior, create the perfect avatar, train to learn new skills & help fight new enemies to restore the original story of the DRAGON BALL series. Join 300 players from around the world in the new hub city of Conton & fight with or against them.",
+    "description": "DRAGON BALL XENOVERSE 2 gives players the ultimate DRAGON BALL gaming experience! Develop your own warrior, create the perfect avatar, train to learn new skills &amp; help fight new enemies to restore the original story of the DRAGON BALL series. Join 300 players from around the world in the new hub city of Conton &amp; fight with or against them.",
     "internalSlug": "game",
     "localKey": "80a70cg66dragonballxenoverse2gam",
     "name": "DRAGON BALL XENOVERSE 2",
@@ -960,7 +1571,7 @@
   },
   "879d82xb1metroexodusglditinmrxus": {
     "app": "879d82512f5441829250ead1aa678a70rcp1",
-    "description": "The Gold Edition includes the Metro Exodus Expansion Pass. The Metro Exodus Expansion Pass will contain two major pieces of story-driven DLC for the game, following brand new stories from the world of Metro: The Two Colonels & Sam’s Story – Early 2020. Flee the shattered ruins of the Moscow Metro and embark on an epic, continent-spanning journey across the post-apocalyptic Russian wilderness. Explore vast, non-linear levels, lose yourself in an immersive, sandbox survival experience, and follow a thrilling story-line that spans an entire year in the greatest Metro adventure yet.",
+    "description": "The Gold Edition includes the Metro Exodus Expansion Pass. The Metro Exodus Expansion Pass will contain two major pieces of story-driven DLC for the game, following brand new stories from the world of Metro: The Two Colonels &amp; Sam’s Story – Early 2020. Flee the shattered ruins of the Moscow Metro and embark on an epic, continent-spanning journey across the post-apocalyptic Russian wilderness. Explore vast, non-linear levels, lose yourself in an immersive, sandbox survival experience, and follow a thrilling story-line that spans an entire year in the greatest Metro adventure yet.",
     "internalSlug": "metro_exodus_gold_edition",
     "localKey": "879d82xb1metroexodusglditinmrxus",
     "name": "Metro Exodus - Gold Edition",
@@ -1052,6 +1663,61 @@
     ],
     "type": "bundle"
   },
+  "8e77c7g2dstrangebrigadestrangbid": {
+    "app": "8e77c7a4368944589b4c9d8179d2eb4crcp1",
+    "description": "Egypt, 1930's. Erased from ancient history and buried in a nameless tomb for 4,000 years, Seteki the Witch Queen has risen once again. Only one troop of daring heroes can stand against the fearsome power of Seteki and her army of mummified monstrosities: The Strange Brigade! Explore remarkable ruins, solve perilous puzzles and uncover tantalising treasure while blasting your way through an array of undead enemies in thrilling third-person action that’s certain to bring out your inner adventurer!",
+    "internalSlug": "StrangeBrigade",
+    "localKey": "8e77c7g2dstrangebrigadestrangbid",
+    "name": "Strange Brigade",
+    "prices": {
+      "basePriceCents": 6699,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "2d155b69c4af46078db2d96a8b0e6883",
+    "type": "game"
+  },
+  "8e77c7o1astrangebrigadeseasonpop": {
+    "app": "8e77c7a4368944589b4c9d8179d2eb4crcp1",
+    "description": "Continue the adventure with the Strange Brigade Season Pass! The Season Pass will give players access to all post-launch content. Featuring a treasure chest worth of brand new campaign and customisation content, the Season Pass will include: Thrilling campaign content! Dashing new characters! Powerful new weapons and items! Explosive new amulets! More!",
+    "internalSlug": "SeasonPassOne",
+    "localKey": "8e77c7o1astrangebrigadeseasonpop",
+    "name": "Strange Brigade - Season Pass",
+    "prices": {
+      "basePriceCents": 4699,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "1acd580745854ff5adc8807baeb5f29d",
+    "type": "addon"
+  },
+  "8e77c7xfdstrangebrigadedluxitonl": {
+    "app": "8e77c7a4368944589b4c9d8179d2eb4crcp1",
+    "description": "Upgrade your Strange Brigade experience with the DELUXE EDITION, which includes the game, the Season Pass, and the Secret Service Weapons Pack! The Season Pass will include brand new campaign missions, playable characters, character skins, weapons, weapon skins + much more! Seteki the Witch Queen has risen once again, and only one troop of daring heroes can stand against her fearsome army of mummified monstrosities: The Strange Brigade! Explore remarkable ruins, solve perilous puzzles and uncover tantalising treasure while blasting your way through an array of undead enemies in thrilling third-person action that’s certain to bring out your inner adventurer!",
+    "internalSlug": "DeluxeEdition",
+    "localKey": "8e77c7xfdstrangebrigadedluxitonl",
+    "name": "Strange Brigade Deluxe Edition",
+    "prices": {
+      "basePriceCents": 10699,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "fd993b8d4b7a49b99caad668a0d7ab3d",
+    "skus": [
+      "2d155b69c4af46078db2d96a8b0e6883",
+      "1acd580745854ff5adc8807baeb5f29d"
+    ],
+    "type": "bundle"
+  },
   "921e9agf1spitlings5f4901cea8bd3j": {
     "app": "921e9afe46aa478fb4aa929a7b1a6bd5rcp1",
     "description": "You know what the problem with multiplayer games is, right? The other players! It’s always THEIR FAULT if you lose! We’ve got the perfect game to blame your friends for their incapability: Spitlings! This chaotic action arcade game for up to four players is a modern take on the hardcore classics. You’re in control of a Spitling, a charming rectangular creature with teeth it can spit or use to jump! Makes no sense? Who cares, it’s FUN! Spitlings is a cute but hardcore Arcade game that’s made for playing its hundreds of levels locally/online with friends. Keep playing to unlock new music tracks, unique characters to play with and intense visual themes for certain levels.",
@@ -1067,6 +1733,23 @@
       "proSalePriceCents": null
     },
     "sku": "f16b28e2fd224acaafeee4c19134adb4",
+    "type": "game"
+  },
+  "9b3ea6gdemetro2033reduxmetro2033": {
+    "app": "9b3ea6519cac48d68ca821f07b1a6a3drcp1",
+    "description": "In 2013 the world was devastated by an apocalyptic event. A handful of survivors took refuge in the depths of the Moscow underground…The year is 2033. You are Artyom, born in the last days before the fire, but raised Underground. One fateful event sparks a desperate mission to the heart of the Metro system, to warn the remnants of mankind of a terrible impending threat. Metro 2033 Redux is the definitive version of the cult classic ‘Metro 2033’. Fans of the original game will find the unique world of Metro transformed with incredible lighting, physics and dynamic weather effects. Newcomers will get the chance to experience one of the finest story-driven shooters of all time; an epic adventure combining gripping survival horror, exploration and tactical combat and stealth.",
+    "internalSlug": "metro_2033",
+    "localKey": "9b3ea6gdemetro2033reduxmetro2033",
+    "name": "Metro 2033 Redux",
+    "prices": {
+      "basePriceCents": 2199,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "de1e97332f1148468759dfc4553edad9",
     "type": "game"
   },
   "a03141g01trialsrisingtrialsgame9": {
@@ -1105,7 +1788,7 @@
   },
   "a03141xcctrialsrisingdgtalgodeon": {
     "app": "a031419410cc48469ff8954ea0732640rcp1",
-    "description": "Explore over-the-top action and physics-bending motorcycle racing in the latest entry of the Trials franchise.  With new tracks  and more ways to compete, Trials Rising is easy to pick-up and play, challenging to master and offers the best multiplayer racing experience. Get an additional 55+ tracks with the Expansion Pass: Explore the American southwest  and go on wild rides in Trials Rising Sixty-Six. Go on an epic adventure below the equator in Trials Rising Crash & Sunburn, globe-trotting in exotic locations. Cut up the competition while you sport The Samurai Item Pack. Defy the laws of gravity with The Stuntman Rider Pack.",
+    "description": "Explore over-the-top action and physics-bending motorcycle racing in the latest entry of the Trials franchise.  With new tracks  and more ways to compete, Trials Rising is easy to pick-up and play, challenging to master and offers the best multiplayer racing experience. Get an additional 55+ tracks with the Expansion Pass: Explore the American southwest  and go on wild rides in Trials Rising Sixty-Six. Go on an epic adventure below the equator in Trials Rising Crash &amp; Sunburn, globe-trotting in exotic locations. Cut up the competition while you sport The Samurai Item Pack. Defy the laws of gravity with The Stuntman Rider Pack.",
     "internalSlug": "gold",
     "localKey": "a03141xcctrialsrisingdgtalgodeon",
     "name": "Trials Rising - Digital Gold Edition",
@@ -1175,13 +1858,38 @@
     "sku": "71e7c4fc5ca24f0f8301da6d042bf18e",
     "type": "game"
   },
-  "a4c5ebo21pubgcheerladrstpubgckin": {
+  "a4c5ebo0bpubgchallengerpackpubhk": {
     "app": "a4c5eb3f4e614b7fadbba64cba68f849rcp1",
-    "description": "This set includes Shako Cheerleader Hat, Cheerleader Sweater, Cheerleader Skirt and Cheerleader Sneakers.",
-    "internalSlug": "PUBGCHRLDSKIN",
-    "localKey": "a4c5ebo21pubgcheerladrstpubgckin",
-    "name": "PUBG - Cheerleader Set",
-    "sku": "21c49bfa54d64bd1bcb6a929764ba7d1",
+    "description": "Grab Challenger Pack and get ready for your Payback. \n\nIncludes:\n- 1,100 G-Coin\n- Cerulean Challenger - SCAR-L\n- Networked Gloves",
+    "internalSlug": "PUBGCHALLPACK",
+    "localKey": "a4c5ebo0bpubgchallengerpackpubhk",
+    "name": "PUBG - Challenger Pack",
+    "prices": {
+      "basePriceCents": 999,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "0b78bb41b4bc41df97a4762bb2829f39",
+    "type": "addon"
+  },
+  "a4c5ebo0bpubgpaybackpackpubgayck": {
+    "app": "a4c5eb3f4e614b7fadbba64cba68f849rcp1",
+    "description": "Return to Sanhok and Get the best out of your Payback. Meet the secret of Sanhok 4 hidden in the lush jungle with Survivor Pass : Payback.\n\nIncludes:\n- Survivor Pass: Payback\n- 5 Levels\n- Retro Track Jacket\n- Her Galaxy Shirt\n- Her Galaxy Shorts\n- Soccer Cleats and Socks (Teal)",
+    "internalSlug": "PUBGPAYBACKPACK",
+    "localKey": "a4c5ebo0bpubgpaybackpackpubgayck",
+    "name": "PUBG - Payback Pack",
+    "prices": {
+      "basePriceCents": 1499,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "0b3acb4586bc4a049cac271ddc598e3e",
     "type": "addon"
   },
   "a4c5ebo2epubgstadiapremiersxcvkn": {
@@ -1193,129 +1901,12 @@
     "sku": "2e07db5d338d40cb9eac9deae4154f11",
     "type": "addon"
   },
-  "a4c5ebo38pubgblueschoolnifrmstak": {
+  "a4c5ebx48playerunknowsbattlegdci": {
     "app": "a4c5eb3f4e614b7fadbba64cba68f849rcp1",
-    "description": "This set includes Pleated Mini-skirt (Blue), Mandarin Jacket (Blue), School Shirt (Open) and School Shoes.",
-    "internalSlug": "PUBGBSCHUNISKIN",
-    "localKey": "a4c5ebo38pubgblueschoolnifrmstak",
-    "name": "PUBG - BLUE SCHOOL UNIFORM SET (FEMALE)",
-    "sku": "38fa68705f70420f8e283fc937926e20",
-    "type": "addon"
-  },
-  "a4c5ebo84pubgbrownhatrangesetpki": {
-    "app": "a4c5eb3f4e614b7fadbba64cba68f849rcp1",
-    "description": "This set includes Faux Leather Jacket, Cowboy Hat (Brown), Leather Bootcut Pants, Battle Belt and Long Sleeved Turtleneck (Black).",
-    "internalSlug": "PUBGBROWNHRSKIN",
-    "localKey": "a4c5ebo84pubgbrownhatrangesetpki",
-    "name": "PUBG - Brown Hat Ranger Set",
-    "sku": "8492149db1724bb6b654d637e231136d",
-    "type": "addon"
-  },
-  "a4c5ebob5pubgbadlandsleisuretpgk": {
-    "app": "a4c5eb3f4e614b7fadbba64cba68f849rcp1",
-    "description": "This set includes Miramar Beach Shirt, Badlands Gold Trim Boots, Marksman Aviators and White Weather Slacks.",
-    "internalSlug": "PUBGBDLDSLEISKIN",
-    "localKey": "a4c5ebob5pubgbadlandsleisuretpgk",
-    "name": "PUBG - BADLANDS LEISURE SET",
-    "prices": {
-      "basePriceCents": 499,
-      "baseSalePriceCents": null,
-      "countryCode": "CA",
-      "currencyCode": "CAD",
-      "proPriceCents": null,
-      "proSalePriceCents": null
-    },
-    "sku": "b54873e3768140b9805664a220969929",
-    "type": "addon"
-  },
-  "a4c5ebod1pubgsurvivorpascoldfntb": {
-    "app": "a4c5eb3f4e614b7fadbba64cba68f849rcp1",
-    "description": "Dress for the season with Survivor Pass: Cold Front.",
-    "internalSlug": "PUBGSURCLFRONT",
-    "localKey": "a4c5ebod1pubgsurvivorpascoldfntb",
-    "name": "PUBG - Survivor Pass : Cold Front",
-    "sku": "d125c6e1d3514f479e34badaad5b9836",
-    "type": "addon"
-  },
-  "a4c5ebod2pubgfactoryworkesetpuin": {
-    "app": "a4c5eb3f4e614b7fadbba64cba68f849rcp1",
-    "description": "This set includes Brimless Cap (Black), Leather Jumpsuit (Black) and Work Boots.",
-    "internalSlug": "PUBGFATYWKSKIN",
-    "localKey": "a4c5ebod2pubgfactoryworkesetpuin",
-    "name": "PUBG- Factory worker Set",
-    "sku": "d222256fad864d92803925f598c3e418",
-    "type": "addon"
-  },
-  "a4c5ebod4pubg6000gcoinspub6coins": {
-    "app": "a4c5eb3f4e614b7fadbba64cba68f849rcp1",
-    "description": "Purchase 6,000 G-Coin. Use G-Coin to purchase PUBG in-game cosmetics and more. Game sold separately.",
-    "internalSlug": "PUBG06000GCOINS",
-    "localKey": "a4c5ebod4pubg6000gcoinspub6coins",
-    "name": "PUBG - 6,000 G-COINS",
-    "prices": {
-      "basePriceCents": 4999,
-      "baseSalePriceCents": null,
-      "countryCode": "CA",
-      "currencyCode": "CAD",
-      "proPriceCents": null,
-      "proSalePriceCents": null
-    },
-    "sku": "d41a70a360b54fbc91b088679bf5624b",
-    "type": "addon"
-  },
-  "a4c5eboeapubgaviatorsetpubgviokn": {
-    "app": "a4c5eb3f4e614b7fadbba64cba68f849rcp1",
-    "description": "This set includes Leather \"Skyrocket\" Jacket, Pilot Pants, Vintage Aviator Goggles, Feathered Shirt and Suede Aviator Cap.",
-    "internalSlug": "PUBGAVIATORSKIN",
-    "localKey": "a4c5eboeapubgaviatorsetpubgviokn",
-    "name": "PUBG - Aviator Set",
-    "sku": "ead73553d3014369a48c2cbd92f02ae5",
-    "type": "addon"
-  },
-  "a4c5ebof9pubghipstersetpubghirkn": {
-    "app": "a4c5eb3f4e614b7fadbba64cba68f849rcp1",
-    "description": "This set includes Hipster Jean Jacket, Hipster Skinny Jeans and Hipster Canvas Shoes.",
-    "internalSlug": "PUBGHIPSTERSKIN",
-    "localKey": "a4c5ebof9pubghipstersetpubghirkn",
-    "name": "PUBG - Hipster Set",
-    "sku": "f92203bfca9846b3b10f236d451a3300",
-    "type": "addon"
-  },
-  "a4c5ebx9fplayerunknowsbattlgdchi": {
-    "app": "a4c5eb3f4e614b7fadbba64cba68f849rcp1",
-    "description": "This is Battle Royale. Land, loot and outwit your opponents to become the last player standing in a thrilling game experience full of unexpected, adrenaline-pumping moments. This bundle includes Playerunknown's Battlegrounds basegame, 6,000 G-Coin, Survivor Pass: Cold Front, Premiere set, Aviator Set, Brown Hat Ranger Set, Blue School Uniform Set, Cheerleader Set, Factory worker Set and Hipster Set.",
-    "internalSlug": "PUBGCHKDINEDITION",
-    "localKey": "a4c5ebx9fplayerunknowsbattlgdchi",
-    "name": "PlayerUnknown's Battlegrounds - Chicken Dinner Edition",
-    "prices": {
-      "basePriceCents": 8999,
-      "baseSalePriceCents": null,
-      "countryCode": "CA",
-      "currencyCode": "CAD",
-      "proPriceCents": null,
-      "proSalePriceCents": null
-    },
-    "sku": "9faa81e600704a828c243bf0b9c479bd",
-    "skus": [
-      "71e7c4fc5ca24f0f8301da6d042bf18e",
-      "d125c6e1d3514f479e34badaad5b9836",
-      "2e07db5d338d40cb9eac9deae4154f11",
-      "d41a70a360b54fbc91b088679bf5624b",
-      "ead73553d3014369a48c2cbd92f02ae5",
-      "8492149db1724bb6b654d637e231136d",
-      "38fa68705f70420f8e283fc937926e20",
-      "21c49bfa54d64bd1bcb6a929764ba7d1",
-      "d222256fad864d92803925f598c3e418",
-      "f92203bfca9846b3b10f236d451a3300"
-    ],
-    "type": "bundle"
-  },
-  "a4c5ebxbeplayerunknowsbattlegrdi": {
-    "app": "a4c5eb3f4e614b7fadbba64cba68f849rcp1",
-    "description": "This is Battle Royale. Land, loot and outwit your opponents to become the last player standing in a thrilling game experience full of unexpected, adrenaline-pumping moments. This bundle includes Playerunknown's Battlegrounds basegame, Survivor Pass: Cold Front and Stadia Premiere set.",
-    "internalSlug": "PUBGPIONEREDITION",
-    "localKey": "a4c5ebxbeplayerunknowsbattlegrdi",
-    "name": "PlayerUnknown's Battlegrounds - Pioneer Edition",
+    "description": "Return to Sanhok and Get the best out of your Payback.\n\nMeet the new  Sanhok where the first legendary Squad who managed to escape from the Battlegrounds were born from. This epic escape of the Squad was recorded in the secret lab in Sanhok, still left abandoned waiting for someone to find them.\n\nThis bundle includes Playerunknown's Battlegrounds basegame, Survivor Pass: Payback and PUBG Season 8 themed Skin set. ",
+    "internalSlug": "PUBGPAYBACKEDITION",
+    "localKey": "a4c5ebx48playerunknowsbattlegdci",
+    "name": "PlayerUnknown's Battlegrounds - Payback Edition",
     "prices": {
       "basePriceCents": 3999,
       "baseSalePriceCents": null,
@@ -1324,13 +1915,191 @@
       "proPriceCents": null,
       "proSalePriceCents": null
     },
-    "sku": "be9526126d394061b0eef9b16352357e",
+    "sku": "480a6d783c834b9faa5c995f69b49431",
     "skus": [
       "71e7c4fc5ca24f0f8301da6d042bf18e",
-      "d125c6e1d3514f479e34badaad5b9836",
-      "2e07db5d338d40cb9eac9deae4154f11"
+      "0b3acb4586bc4a049cac271ddc598e3e"
     ],
     "type": "bundle"
+  },
+  "b17f16g2atheeldrscrolsonintamiug": {
+    "app": "b17f16d4a4f94c0a85e07f54dbdedbb6rcp1",
+    "description": "The fantasy role-playing series, The Elder Scrolls, goes online – no game subscription required. Embark upon quests across Tamriel and engage in massive player versus player battles. Experience this multiplayer role-playing game on your own or with your friends, guild mates, and thousands of alliance members. The choices are yours in the world of The Elder Scrolls Online: Tamriel Unlimited. See loot box odds below.",
+    "internalSlug": "GAME",
+    "localKey": "b17f16g2atheeldrscrolsonintamiug",
+    "name": "The Elder Scrolls Online: Tamriel Unlimited",
+    "sku": "2a598d522e4f4f9d818d08fe582d17e3",
+    "type": "game"
+  },
+  "b17f16o21theeldrscrolsoninwyupga": {
+    "app": "b17f16d4a4f94c0a85e07f54dbdedbb6rcp1",
+    "description": "Venture to the warm sands of the Khajiit in The Elder Scrolls Online: Elsweyr, part of the Season of the Dragon year-long adventure. Dragons return to Tamriel! Explore the savannahs and canyons of Elsweyr, defend the home of the Khajiit from an ancient evil, and command the undead with the Necromancer class. REQUIRES THE ELDER SCROLLS ONLINE, SOLD SEPERATELY. See loot box odds below.",
+    "internalSlug": "ELSWEYR",
+    "localKey": "b17f16o21theeldrscrolsoninwyupga",
+    "name": "The Elder Scrolls Online: Elsweyr Upgrade",
+    "sku": "212186d60ed24af3b601d9e982778335",
+    "type": "addon"
+  },
+  "b17f16o24theeldrscrolsoninwycpak": {
+    "app": "b17f16d4a4f94c0a85e07f54dbdedbb6rcp1",
+    "description": "Journey to Elsweyr with bonus content exclusive to the Collector's Edition. Includes the Senche-Raht mount, Ashen Scar Jerboa pet, Khajiiti Cultural Pack, Dragonbone style converter, and the Archaic Lore Tablets momento. See loot box odds below.",
+    "internalSlug": "EWCE",
+    "localKey": "b17f16o24theeldrscrolsoninwycpak",
+    "name": "The Elder Scrolls Online: Elsweyr Collector's Pack",
+    "sku": "24199aa378b0493baa2454bffaca1c9a",
+    "type": "addon"
+  },
+  "b17f16o6btheeldrscrolsoningymupa": {
+    "app": "b17f16d4a4f94c0a85e07f54dbdedbb6rcp1",
+    "description": "The Dark Heart of Skyrim beats from the depths in The Elder Scrolls Online: Greymoor. Explore the snow-swept region of Western Skyrim and face an ancient vampiric army that once plagued Tamriel, bent on devouring souls to fuel their rebirth, as part of a year-long gothic adventure. REQUIRES THE ELDER SCROLLS ONLINE, SOLD SEPARATELY. See loot box odds below.",
+    "internalSlug": "GREYMOOR",
+    "localKey": "b17f16o6btheeldrscrolsoningymupa",
+    "name": "The Elder Scrolls Online: Greymoor Upgrade",
+    "prices": {
+      "basePriceCents": 5499,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "6b1c1766bfdd494cb2df6b0323bc3ea5",
+    "type": "addon"
+  },
+  "b17f16o70theeldrscrolsoninummpga": {
+    "app": "b17f16d4a4f94c0a85e07f54dbdedbb6rcp1",
+    "description": "This upgrade is for players who already own The Elder Scrolls Online. Journey to the home of the High Elves in The Elder Scrolls Online: Summerset. Experience an epic story in an all-new zone, unlock a new skill line of abilities, and join the secretive Psijic Order on a mission to save the world from destruction. See loot box odds below.",
+    "internalSlug": "SUMSET",
+    "localKey": "b17f16o70theeldrscrolsoninummpga",
+    "name": "The Elder Scrolls Online: Summerset Upgrade",
+    "sku": "70e925bb91404cc480e1e21dcc2598b8",
+    "type": "addon"
+  },
+  "b17f16o9atheeldrscrolsoninmwipak": {
+    "app": "b17f16d4a4f94c0a85e07f54dbdedbb6rcp1",
+    "description": "Journey to Morrowind with bonus content exclusive to the Collector's Edition. Includes the Collector's Edition Grey War Bear, Armored War Horse mount, Dwarven Spider pet, Morag Tong converter, and exclusive emotes. See loot box odds below.",
+    "internalSlug": "MWCE",
+    "localKey": "b17f16o9atheeldrscrolsoninmwipak",
+    "name": "The Elder Scrolls Online: Morrowind Collector's Pack",
+    "sku": "9a47dd42375f431c85af459fc593cff8",
+    "type": "addon"
+  },
+  "b17f16oa9theeldrscrolsoninummpak": {
+    "app": "b17f16d4a4f94c0a85e07f54dbdedbb6rcp1",
+    "description": "Journey to Summerset with bonus content exclusive to the Collector's Edition. Includes the Bloodshadow Wraith Steed mount, Fledgling Gryphon pet, House of Reveries emote pack, Divine Prosecution outfit style, and Psijic Scrying Talisman momento. See loot box odds below.",
+    "internalSlug": "SSCE",
+    "localKey": "b17f16oa9theeldrscrolsoninummpak",
+    "name": "The Elder Scrolls Online: Summerset Collector's Pack",
+    "sku": "a9b751c6c22445b5a98a4851248d3c47",
+    "type": "addon"
+  },
+  "b17f16ob2theeldrscrolsoningympak": {
+    "app": "b17f16d4a4f94c0a85e07f54dbdedbb6rcp1",
+    "description": "Journey to Greymoor with bonus content exclusive to the Collector's Edition, which includes: Crypt Warden Death Hound mount, Death Hound pet, Skyrim Emote pack, Sword Thane outfit style, and the Orb of Magnus memento. See loot box odds below.",
+    "internalSlug": "GMCE",
+    "localKey": "b17f16ob2theeldrscrolsoningympak",
+    "name": "The Elder Scrolls Online: Greymoor Collector's Pack",
+    "sku": "b23545b9062543a891b0467d8b2671f0",
+    "type": "addon"
+  },
+  "b17f16odctheeldrscrolsoninmwupga": {
+    "app": "b17f16d4a4f94c0a85e07f54dbdedbb6rcp1",
+    "description": "Morrowind is on the verge of destruction, and it’s up to you to save it from a deadly Daedric threat. Embark on a dangerous journey through legendary locales. See loot box odds below.",
+    "internalSlug": "MORROWIND",
+    "localKey": "b17f16odctheeldrscrolsoninmwupga",
+    "name": "The Elder Scrolls Online: Morrowind Upgrade",
+    "sku": "dc22a780578a43998109b3223e15dcbc",
+    "type": "addon"
+  },
+  "b17f16x06theeldrscrolsoningymgfu": {
+    "app": "b17f16d4a4f94c0a85e07f54dbdedbb6rcp1",
+    "description": "The Dark Heart of Skyrim beats from the depths in The Elder Scrolls Online: Greymoor. Explore the snow-swept region of Western Skyrim and face an ancient vampiric army that once plagued Tamriel, bent on devouring souls to fuel their rebirth, as part of a year-long gothic adventure. The Elder Scrolls Online: Greymoor includes Elsweyr, Summerset and Morrowind Chapters, as well as the Base Game. See loot box odds below.",
+    "internalSlug": "GMSEFULL",
+    "localKey": "b17f16x06theeldrscrolsoningymgfu",
+    "name": "The Elder Scrolls Online: Greymoor",
+    "prices": {
+      "basePriceCents": 7999,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "06adceee27be4150b080495b3c51c68c",
+    "skus": [
+      "2a598d522e4f4f9d818d08fe582d17e3",
+      "6b1c1766bfdd494cb2df6b0323bc3ea5",
+      "212186d60ed24af3b601d9e982778335",
+      "70e925bb91404cc480e1e21dcc2598b8",
+      "dc22a780578a43998109b3223e15dcbc"
+    ],
+    "type": "bundle"
+  },
+  "b17f16x57theeldrscrolsoningymcfu": {
+    "app": "b17f16d4a4f94c0a85e07f54dbdedbb6rcp1",
+    "description": "The Dark Heart of Skyrim beats from the depths in The Elder Scrolls Online: Greymoor. Explore the snow-swept region of Western Skyrim and face an ancient vampiric army that once plagued Tamriel, bent on devouring souls to fuel their rebirth, as part of a year-long gothic adventure. The Digital Collector's Edition includes Elsweyr CE, Summerset CE and Morrowind CE (Chapters + CE content) as well as the Base Game. See loot box odds below.",
+    "internalSlug": "GMCEFULL",
+    "localKey": "b17f16x57theeldrscrolsoningymcfu",
+    "name": "The Elder Scrolls Online: Greymoor Collector's Edition",
+    "prices": {
+      "basePriceCents": 10999,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "57bdb73d1f6e47f99d1dfc61c1ca1402",
+    "skus": [
+      "2a598d522e4f4f9d818d08fe582d17e3",
+      "6b1c1766bfdd494cb2df6b0323bc3ea5",
+      "212186d60ed24af3b601d9e982778335",
+      "70e925bb91404cc480e1e21dcc2598b8",
+      "dc22a780578a43998109b3223e15dcbc",
+      "b23545b9062543a891b0467d8b2671f0",
+      "24199aa378b0493baa2454bffaca1c9a",
+      "a9b751c6c22445b5a98a4851248d3c47",
+      "9a47dd42375f431c85af459fc593cff8"
+    ],
+    "type": "bundle"
+  },
+  "b17f16xdatheeldrscrolsonintadaib": {
+    "app": "b17f16d4a4f94c0a85e07f54dbdedbb6rcp1",
+    "description": "Includes The Elder Scrolls Online Base game and the Morrowind Chapter. Join over 10 million players in the award-winning online multiplayer RPG and experience an ever-expanding story set across Tamriel. Explore a rich, living world with friends or embark on a solo adventure – the choice is yours to make in a persistent Elder Scrolls world. See loot box odds below.",
+    "internalSlug": "BASE",
+    "localKey": "b17f16xdatheeldrscrolsonintadaib",
+    "name": "The Elder Scrolls Online: Standard Edition",
+    "prices": {
+      "basePriceCents": 2499,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "dad1cc5c8c1e45c38a83d125e59ea4b9",
+    "skus": [
+      "2a598d522e4f4f9d818d08fe582d17e3",
+      "dc22a780578a43998109b3223e15dcbc"
+    ],
+    "type": "bundle"
+  },
+  "b65c1cg92metrolastlighreduxmoasi": {
+    "app": "b65c1c4dcdf24446bcecda190c6a2fe7rcp1",
+    "description": "The awe-inspiring immersive experience of a lifetime. Join the external and internal fights that could change everything for a single Artyom. Just when hope is lost, this Artyom finds it time and time again. This game may be 3D in pixels, but it's infinitely dimensional in meaning.",
+    "internalSlug": "metro_last_light",
+    "localKey": "b65c1cg92metrolastlighreduxmoasi",
+    "name": "Metro Last Light Redux",
+    "prices": {
+      "basePriceCents": 2199,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "92cd0fa4958444b5846d1b72878c7e25",
+    "type": "game"
   },
   "b83283g90steamworlddig2game51821": {
     "app": "b832835182124d4d83cb76a74a76a33frcp1",
@@ -1366,9 +2135,130 @@
     "sku": "a1afa4eca7b24713a9bcf3421dd85a13",
     "type": "game"
   },
+  "bbb1a1gfepowerrangesbattlfohgidb": {
+    "app": "bbb1a143aa3449a5a1f236a05c305c9frcp1",
+    "description": "Generations of Power Rangers collide across the multiverse’s 25 year history. Experience authentic, but reimagined Power Rangers gameplay. This easy to learn, but hard to master fighting game is designed to welcome players of all skill levels.",
+    "internalSlug": "BFTG",
+    "localKey": "bbb1a1gfepowerrangesbattlfohgidb",
+    "name": "Power Rangers: Battle for the Grid",
+    "prices": {
+      "basePriceCents": 2299,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "fe5459c281d9443ca8f0e420f59936fc",
+    "type": "game"
+  },
+  "bbb1a1o0dlordzedcharacteunlks013": {
+    "app": "bbb1a143aa3449a5a1f236a05c305c9frcp1",
+    "description": "This unlocks Lord Zedd, a full character. Do not purchase if you own Season One Pass.",
+    "internalSlug": "DLC_CHARACTER_SEASON_01_CHAR_03",
+    "localKey": "bbb1a1o0dlordzedcharacteunlks013",
+    "name": "Lord Zedd Character Unlock",
+    "prices": {
+      "basePriceCents": 599,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "0d1927e7d4584b1d98421dc1b1ec9840",
+    "type": "addon"
+  },
+  "bbb1a1o42jenscottsimfrpkhauld09g": {
+    "app": "bbb1a143aa3449a5a1f236a05c305c9frcp1",
+    "description": "This unlocks Jenn Scotts Time Force Pink, a full character. Do not purchase if you own Season One Pass.",
+    "internalSlug": "DLC_CHAR_S09_PINKRANGER_DEFAULT",
+    "localKey": "bbb1a1o42jenscottsimfrpkhauld09g",
+    "name": "Jen Scotts - Time Force Pink Character Unlock",
+    "prices": {
+      "basePriceCents": 599,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "425301c5831744e8828dc4173e66f00c",
+    "type": "addon"
+  },
+  "bbb1a1o59kimberlyhartskinfompdcg": {
+    "app": "bbb1a143aa3449a5a1f236a05c305c9frcp1",
+    "description": "Kimberly Hart skin comes bundled as part of the COLLECTOR'S EDITION. Claim the COLLECTOR'S EDITION to automatically unlock this exclusive content.",
+    "internalSlug": "DLC_SKIN_COM_RANGERSLAYER_MMPR",
+    "localKey": "bbb1a1o59kimberlyhartskinfompdcg",
+    "name": "Kimberly Hart Skin for MMPR Pink",
+    "sku": "59757b33f9244954b10ed53a9443591d",
+    "type": "addon"
+  },
+  "bbb1a1o93lorddrakkoneviisnflacm2": {
+    "app": "bbb1a143aa3449a5a1f236a05c305c9frcp1",
+    "description": "Lord Drakkon Evo II skin comes bundled as part of the COLLECTOR'S EDITION. Claim the COLLECTOR'S EDITION to automatically unlock this exclusive content.",
+    "internalSlug": "DLC_SKIN_COM_DRAKKON_DARKKONV2",
+    "localKey": "bbb1a1o93lorddrakkoneviisnflacm2",
+    "name": "Lord Drakkon Evo II Skin for Lord Drakkon",
+    "sku": "934d38642bee464ba2ecd6f03c69ba2f",
+    "type": "addon"
+  },
+  "bbb1a1o94dragonshieldskinfojct01": {
+    "app": "bbb1a143aa3449a5a1f236a05c305c9frcp1",
+    "description": "Jason mit Dragon Shield-Skin wird im Rahmen des SAISON-1-PASS gebündelt. Kaufen Sie den SAISON-1-PASS , um diesen exklusiven Inhalt automatisch freizuschalten.",
+    "internalSlug": "DLC_SKIN_S01_REDRANGER_REDSHIELD",
+    "localKey": "bbb1a1o94dragonshieldskinfojct01",
+    "name": "Dragon Shield skin for Jason Lee Scott",
+    "sku": "94fb4f60d81a4f06ab7742ce8c75f5fe",
+    "type": "addon"
+  },
+  "bbb1a1ob8treyoftrifazgldchunks03": {
+    "app": "bbb1a143aa3449a5a1f236a05c305c9frcp1",
+    "description": "This unlocks Zeo Gold Trey, a full character. Do not purchase if you own Season One Pass.",
+    "internalSlug": "DLC_CHAR_S03_GOLDRANGER_DEFAULT",
+    "localKey": "bbb1a1ob8treyoftrifazgldchunks03",
+    "name": "Trey of Triforia - Zeo Gold Character Unlock",
+    "prices": {
+      "basePriceCents": 599,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "b8768ddc3f514fe29aa84c9e16a1aedf",
+    "type": "addon"
+  },
+  "bbb1a1xddpowerrangesbattlfohgidc": {
+    "app": "bbb1a143aa3449a5a1f236a05c305c9frcp1",
+    "description": "Generations of Power Rangers collide across the multiverse’s 25 year history. Experience authentic, but reimagined Power Rangers gameplay. This easy to learn, but hard to master fighting game is designed to welcome players of all skill levels.",
+    "internalSlug": "BFTG-Collector",
+    "localKey": "bbb1a1xddpowerrangesbattlfohgidc",
+    "name": "Power Rangers: Battle for the Grid Collector's Edition",
+    "prices": {
+      "basePriceCents": 4599,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "dd3cc4400aba4b809fb9eafcf61cb344",
+    "skus": [
+      "fe5459c281d9443ca8f0e420f59936fc",
+      "934d38642bee464ba2ecd6f03c69ba2f",
+      "59757b33f9244954b10ed53a9443591d",
+      "94fb4f60d81a4f06ab7742ce8c75f5fe",
+      "425301c5831744e8828dc4173e66f00c",
+      "0d1927e7d4584b1d98421dc1b1ec9840",
+      "b8768ddc3f514fe29aa84c9e16a1aedf"
+    ],
+    "type": "bundle"
+  },
   "be080ag95borderlands3bl3staneiti": {
     "app": "be080ad40b434ca289166031d3e88623rcp1",
-    "description": "*Moxxi’s Heist of the Handsome Jackpot (Campaign Add-On 1) and bonus end game content such as Takedown at the Maliwan Blacksite expected to launch on Stadia early 2020. The original shooter-looter returns, packing bazillions of guns and a mayhem-fueled adventure! Blast through new worlds and enemies as one of four new Vault Hunters. Play solo or with friends to take on insane enemies, score loads of loot and save your home from the most ruthless cult leaders in the galaxy.",
+    "description": "The original shooter-looter returns, packing bazillions of guns and a mayhem-fueled adventure! Blast through new worlds and enemies as one of four new Vault Hunters. Play solo or with friends to take on insane enemies, score loads of loot and save your home from the most ruthless cult leaders in the galaxy.",
     "internalSlug": "BL3_StandardEdition",
     "localKey": "be080ag95borderlands3bl3staneiti",
     "name": "Borderlands®3",
@@ -1385,7 +2275,7 @@
   },
   "be080ao1eborderlands3seasonpbl3p": {
     "app": "be080ad40b434ca289166031d3e88623rcp1",
-    "description": "*Moxxi’s Heist of the Handsome Jackpot (Campaign Add-On 1) and bonus end game content such as Takedown at the Maliwan Blacksite expected to launch on Stadia early 2020. Continue your Borderlands 3 adventure with the Season Pass, featuring exclusive cosmetic items and four story campaign add-ons with new missions and challenges! This content is included with purchase of the Borderlands 3 Super Deluxe Edition. The Season Pass includes: • 4 campaign add-on packs featuring new stories, missions and challenges • Butt Stallion weapon skin • Butt Stallion weapon trinket • Butt Stallion grenade mod. All Season Pass add-on content will be available by September 2020.",
+    "description": "Continue your Borderlands 3 adventure with the Season Pass, featuring exclusive cosmetic items and four story campaign add-ons with new missions and challenges! This content is included with purchase of the Borderlands 3 Super Deluxe Edition. The Season Pass includes: • 4 campaign add-on packs featuring new stories, missions and challenges • Butt Stallion weapon skin • Butt Stallion weapon trinket • Butt Stallion grenade mod. All Season Pass add-on content will be available by September 2020.",
     "internalSlug": "BL3_SeasonPass",
     "localKey": "be080ao1eborderlands3seasonpbl3p",
     "name": "Borderlands®3 Season Pass",
@@ -1488,7 +2378,7 @@
   },
   "be080axf4borderlands3eluxitionb3": {
     "app": "be080ad40b434ca289166031d3e88623rcp1",
-    "description": "*Moxxi’s Heist of the Handsome Jackpot (Campaign Add-On 1) and bonus end game content such as Takedown at the Maliwan Blacksite expected to launch on Stadia early 2020. The Deluxe Edition includes: • Retro Cosmetic Pack: Vault Hunter head & skin, ECHO Device skin, weapon skin • Neon Cosmetic Pack: Vault Hunter head & skin, ECHO Device skin, trinket • Gearbox Cosmetic Pack: weapon skin, trinket • Toy Box Weapons Pack: 2 Toy guns, Toy grenade mod, trinket • Equippable XP & Loot Drop Boost Mods The original shooter-looter returns, packing bazillions of guns and an all-new mayhem-fueled adventure! Blast through new worlds and enemies as one of 4 brand new Vault Hunters. Play solo or with friends to take on insane enemies, score loads of loot and save your home.",
+    "description": "The Deluxe Edition includes: • Retro Cosmetic Pack: Vault Hunter head &amp; skin, ECHO Device skin, weapon skin • Neon Cosmetic Pack: Vault Hunter head &amp; skin, ECHO Device skin, trinket • Gearbox Cosmetic Pack: weapon skin, trinket • Toy Box Weapons Pack: 2 Toy guns, Toy grenade mod, trinket • Equippable XP &amp; Loot Drop Boost Mods The original shooter-looter returns, packing bazillions of guns and an all-new mayhem-fueled adventure! Blast through new worlds and enemies as one of 4 brand new Vault Hunters. Play solo or with friends to take on insane enemies, score loads of loot and save your home.",
     "internalSlug": "BL3_DeluxeEdition",
     "localKey": "be080axf4borderlands3eluxitionb3",
     "name": "Borderlands®3 Deluxe Edition",
@@ -1513,7 +2403,7 @@
   },
   "be080axfbborderlands3supeluxitio": {
     "app": "be080ad40b434ca289166031d3e88623rcp1",
-    "description": "*Moxxi’s Heist of the Handsome Jackpot (Campaign Add-On 1) and bonus end game content such as Takedown at the Maliwan Blacksite expected to launch on Stadia early 2020. The Super Deluxe Edition includes the Season Pass and Deluxe bonus content. Season Pass: • 4 campaign add-on's • Butt Stallion weapon skin, weapon trinket, and grenade mod. Deluxe bonus content: • Retro Cosmetic Pack • Neon Cosmetic Pack • Gearbox Cosmetic Pack  • Toy Box Weapons Pack • Equippable XP & Loot Drop Boost Mods. The original shooter-looter returns, packing bazillions of guns and an all-new mayhem-fueled adventure! Blast through new worlds and enemies as one of 4 brand new Vault Hunters. Play solo or with friends to take on insane enemies, score loads of loot and save your home.",
+    "description": "The Super Deluxe Edition includes the Season Pass and Deluxe bonus content. Season Pass: • 4 campaign add-on's • Butt Stallion weapon skin, weapon trinket, and grenade mod. Deluxe bonus content: • Retro Cosmetic Pack • Neon Cosmetic Pack • Gearbox Cosmetic Pack  • Toy Box Weapons Pack • Equippable XP &amp; Loot Drop Boost Mods. The original shooter-looter returns, packing bazillions of guns and an all-new mayhem-fueled adventure! Blast through new worlds and enemies as one of 4 brand new Vault Hunters. Play solo or with friends to take on insane enemies, score loads of loot and save your home.",
     "internalSlug": "BL3_SuperDeluxeEdition",
     "localKey": "be080axfbborderlands3supeluxitio",
     "name": "Borderlands®3 Super Deluxe Edition",
@@ -1555,6 +2445,23 @@
     "sku": "6e98f34bbcae444a99816b8f2613452b",
     "type": "game"
   },
+  "c19285gfaorcsmustdie3game3051574": {
+    "app": "c1928530515748da9f55afc7243fd3e1rcp1",
+    "description": "Orcs Must Die! 3 ushers orc-slaying mayhem to a previously unimaginable scale. All new War Scenarios pit players and their friends against the largest orc armies ever assembled. War Machines give players the essential firepower to heave, stab, carbonize, and disarticulate the abominable intruders. Orcs Must Die! 3 is the long-awaited successor to the award-winning series.",
+    "internalSlug": "GAME",
+    "localKey": "c19285gfaorcsmustdie3game3051574",
+    "name": "Orcs Must Die! 3",
+    "prices": {
+      "basePriceCents": 3999,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "fa63c6e891ff4d1bb76c4ac7580c119a",
+    "type": "game"
+  },
   "c48985gf6steamworlddiggame19ff25": {
     "app": "c4898519ff254b969ede8bafdff927e8rcp1",
     "description": "SteamWorld Dig is a platform mining adventure with strong Metroidvanian influences. Take the role of Rusty, a lone mining steambot, as he arrives at an old mining town in great need. Dig your way through the old earth, gaining riches while uncovering the ancient threat that lurks below...",
@@ -1570,6 +2477,40 @@
       "proSalePriceCents": null
     },
     "sku": "f6658df6c8874c828532d5d24c66d58f",
+    "type": "game"
+  },
+  "c727a9g43jotunvalhallaeditionjou": {
+    "app": "c727a9083ce649e5b1cc6999c4fa2e5frcp1",
+    "description": "Jotun is a hand-drawn action-exploration game set in Norse mythology. In Jotun, you play Thora, a Viking warrior who died an inglorious death and must prove herself to the Gods to enter Valhalla. Explore vast regions of Norse Purgatory to find runes to unleash the jotun, giant Norse elementals. Fight them using only your massive two-handed axe, the blessings of the Gods and your skills! Impress the Gods!",
+    "internalSlug": "jotun",
+    "localKey": "c727a9g43jotunvalhallaeditionjou",
+    "name": "Jotun: Valhalla Edition",
+    "prices": {
+      "basePriceCents": 1799,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "43fb9c029d0641e290fdbaedea1c3a40",
+    "type": "game"
+  },
+  "c91199g68celesteceleste8e4f8d4c6": {
+    "app": "c911998e4f8d4c6ea6712c5ad33e4a54rcp1",
+    "description": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.",
+    "internalSlug": "celeste",
+    "localKey": "c91199g68celesteceleste8e4f8d4c6",
+    "name": "Celeste",
+    "prices": {
+      "basePriceCents": 2199,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "68fb07a7c4ac41f1afb21d742c717538",
     "type": "game"
   },
   "ca805dg75gridgridstandardedition": {
@@ -1591,7 +2532,7 @@
   },
   "ca805do42gridultimateupgradeglmp": {
     "app": "ca805d3d37404654a91d2ea62fad7bd4rcp1",
-    "description": "Upgrade to GRID Ultimate Season Pass to get 6 months of premium content including: 99 extra Career events (33 per season), 12 new cars (4 per season) & Seasonal rewards*: Season 1 (Hot Hatch Showdown), Season 2 (Track Day Supercars), Season 3 (Track Day Hypercars). 5 Grid Edition Carbon Liveries (each with added XP boost): Aston Martin Vantage GT4, Pontiac Firebird Modified, Chevrolet Corvette C7.R, Mitsubishi Lancer Evolution VI Time Attack,  enault R26. 10 player cards, 10 player banners, 10 extra unique liveries, VIP status.",
+    "description": "Upgrade to GRID Ultimate Season Pass to get 6 months of premium content including: 99 extra Career events (33 per season), 12 new cars (4 per season) &amp; Seasonal rewards*: Season 1 (Hot Hatch Showdown), Season 2 (Track Day Supercars), Season 3 (Track Day Hypercars). 5 Grid Edition Carbon Liveries (each with added XP boost): Aston Martin Vantage GT4, Pontiac Firebird Modified, Chevrolet Corvette C7.R, Mitsubishi Lancer Evolution VI Time Attack,  enault R26. 10 player cards, 10 player banners, 10 extra unique liveries, VIP status.",
     "internalSlug": "GRID_Ultimate_Upgrade",
     "localKey": "ca805do42gridultimateupgradeglmp",
     "name": "GRID Ultimate Upgrade",
@@ -1608,7 +2549,7 @@
   },
   "ca805dx4fgridultimateedongrulmao": {
     "app": "ca805d3d37404654a91d2ea62fad7bd4rcp1",
-    "description": "Be an Ultimate Edition GRID player to get 6 months of premium content including: 99 extra Career events (33 per season), 12 new cars (4 per season) & Seasonal rewards*: Season 1 (Hot Hatch Showdown), Season 2 (Track Day Supercars), Season 3 (Track Day Hypercars). 5 Grid Edition Carbon Liveries (each with added XP boost): Aston Martin Vantage GT4, Pontiac Firebird Modified, Chevrolet Corvette C7.R, Mitsubishi Lancer Evolution VI Time Attack, Renault R26. 10 player cards, 10 player banners, 10 extra unique liveries, VIP status.",
+    "description": "Be an Ultimate Edition GRID player to get 6 months of premium content including: 99 extra Career events (33 per season), 12 new cars (4 per season) &amp; Seasonal rewards*: Season 1 (Hot Hatch Showdown), Season 2 (Track Day Supercars), Season 3 (Track Day Hypercars). 5 Grid Edition Carbon Liveries (each with added XP boost): Aston Martin Vantage GT4, Pontiac Firebird Modified, Chevrolet Corvette C7.R, Mitsubishi Lancer Evolution VI Time Attack, Renault R26. 10 player cards, 10 player banners, 10 extra unique liveries, VIP status.",
     "internalSlug": "GRID_Ultimate_Edition",
     "localKey": "ca805dx4fgridultimateedongrulmao",
     "name": "GRID Ultimate Edition",
@@ -1649,7 +2590,7 @@
     "description": "Hitler’s hordes are back for more in this spine-chilling shooter! Occult enemies, epic weapons and a new campaign for 1-4 players await, as you fight to save humankind from undead Armageddon!",
     "internalSlug": "ZombieArmy4",
     "localKey": "cba537ga7zombiearmy4deadwrzobiy4",
-    "name": "Zombie Army 4: Dead War ",
+    "name": "Zombie Army 4: Dead War",
     "prices": {
       "basePriceCents": 6699,
       "baseSalePriceCents": null,
@@ -1793,7 +2734,7 @@
   },
   "cc9743g94thecrew2thecrew24908874": {
     "app": "cc97434908874852a6705d255a605dc8rcp1",
-    "description": "In The Crew 2, take on the American motorsports scene as you explore and dominate the land, air, and sea of the United States in one of the most exhilarating open worlds ever created.  With a wide variety of exotic cars, bikes, boats, and planes to choose from, experience the unbridled thrill and adrenaline-pumping excitement of competing across the entire USA as you test your skills in a wide range of driving disciplines. Record every heart-pounding, white-knuckle, moment and share them with the simple push of a button - fame is yours to take! Play with up to 7 friends online.",
+    "description": "In The Crew 2, take on the American motorsports scene as you explore and dominate the land, air, and sea of the United States in one of the most exhilarating open worlds ever created. &nbsp;With a wide variety of exotic cars, bikes, boats, and planes to choose from, experience the unbridled thrill and adrenaline-pumping excitement of competing across the entire USA as you test your skills in a wide range of driving disciplines. Record every heart-pounding, white-knuckle, moment and share them with the simple push of a button - fame is yours to take! Play with up to 7 friends online.",
     "internalSlug": "TheCrew2",
     "localKey": "cc9743g94thecrew2thecrew24908874",
     "name": "The Crew 2",
@@ -1964,7 +2905,7 @@
   },
   "d43cd4oa8thedivison2year1pasyrck": {
     "app": "d43cd46c81734ca48e1a615310d0237crcp1",
-    "description": "Enhance your The Division 2 experience with the Year 1 Pass! The Year 1 Pass includes: Instant unlock of all Year 1 Specializations, 7-day early access to all Year 1 Episodes, 8 exclusive narrative missions \"Classified Assignments: the Fall of D.C.\", A VIP status during Year 1, including additional assignments, rewards and discounts, 1 exclusive outfit & 1 exclusive emote",
+    "description": "Enhance your The Division 2 experience with the Year 1 Pass! The Year 1 Pass includes: Instant unlock of all Year 1 Specializations, 7-day early access to all Year 1 Episodes, 8 exclusive narrative missions \"Classified Assignments: the Fall of D.C.\", A VIP status during Year 1, including additional assignments, rewards and discounts, 1 exclusive outfit &amp; 1 exclusive emote",
     "internalSlug": "year_pass_1_pack",
     "localKey": "d43cd4oa8thedivison2year1pasyrck",
     "name": "The Division 2 - Year 1 Pass",
@@ -2050,6 +2991,23 @@
       "proSalePriceCents": null
     },
     "sku": "3ac3e537019c49028d7bb98e8cd92482",
+    "type": "game"
+  },
+  "d59957g22embrearlyaccessembr6cdd": {
+    "app": "d599576cddfc400f804b889460e84cb3rcp1",
+    "description": "Stadia Early Access Disclaimer:\nThis game is an unfinished product; it might have playability issues (including the potential loss of save progress), change without notice, and may or may not be updated further or completed. Purchase only if you want to play the game in its current state of development. You may lose access if the publisher does not finish the game. Access our help center to learn more about early access. Learn more about early access [https://support.google.com/stadia?p=early_access] \n\nEmbr is planning to stay in Early Access for 12 months. Muse Games and Curve Digital want to make sure the game launches in a state that we, and you, are happy with, and we don't want to rush this process. For full release, we are looking to add 2-3 times the amount of content as well as a number of additional game modes, we are aiming to add campaigns with a series of escalating missions and narrative threads. Progression wise, we want to flesh out tools and cosmetic customization. Asset wise, we aim to expand the asset set from residential to industrial. Further work includes localization beyond just English. Please‌ ‌head‌ ‌to‌ ‌our‌ ‌official‌ ‌site‌ ‌to‌ ‌join‌ ‌the‌ ‌discussions!‌ Community Site [https://discord.gg/embr] \n\nJoin Embr, THE Emergency Services Revolution, and become an Embr Respondr™ today! Fight fires and save lives while climbing the ladder of success, all within the comfort of flexible working hours. Embr's mission is simple; bring über firefighting to everyone, everywhere.\n\nAs an Embr Respondr™️ you'll answer clients' calls for help, and bring firefighting directly to their door! Break down doors, clear gas leaks and put out fires - no job is too much for an Embr Respondr™️.",
+    "internalSlug": "Embr",
+    "localKey": "d59957g22embrearlyaccessembr6cdd",
+    "name": "Embr Early Access",
+    "prices": {
+      "basePriceCents": 2799,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "2240fd0ec10f4229ab05fe5c7547b20a",
     "type": "game"
   },
   "da94f3g8dkinekinegameaa88b24eb6a": {
@@ -2158,6 +3116,23 @@
     ],
     "type": "bundle"
   },
+  "ef14fbg38monsterboyandthecurskig": {
+    "app": "ef14fb2f692c4b42b4b092d3e7864cd8rcp1",
+    "description": "A legendary series returns with a grand new adventure! Enjoy a colorful action-adventure game made alongside Ryuichi Nishizawa, creator of the original Wonder Boy in Monster World series. Monster Boy and the Cursed Kingdom borrows the best from the classic series to deliver a fresh, modern adventure with fun gameplay, memorable music and gorgeous hand drawn animations. Can Jin save Monster World Kingdom? Help our young hero defeat challenging enemies, discover hidden locations, upgrade powerful equipment, and more! You'll also unlock special forms with unique skills used to open new paths where mighty bosses and secret treasures await.",
+    "internalSlug": "MB_ATCK_Stadia",
+    "localKey": "ef14fbg38monsterboyandthecurskig",
+    "name": "Monster Boy and the Cursed Kingdom",
+    "prices": {
+      "basePriceCents": 3999,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "38f772ac664545d99890ebb460d1d894",
+    "type": "game"
+  },
   "efa3b6gbbshadowofthetmbrainv1502": {
     "app": "efa3b6108d3e41689b2223ba9d48f5c8rcp1",
     "description": "In Shadow of the Tomb Raider Definitive Edition experience the final chapter of Lara’s origin as she is forged into the Tomb Raider she is destined to be. Combining the base game, all seven DLC challenge tombs, as well as all downloadable weapons, outfits, and skills, Shadow of the Tomb Raider Definitive Edition is the ultimate way to experience Lara’s defining moment.",
@@ -2175,6 +3150,112 @@
     "sku": "bb9bcb490fd145d9997c8b3ff3f1039f",
     "type": "game"
   },
+  "f3519fg60f12020f120203dc3d74fbb8": {
+    "app": "f3519f3dc3d74fbb8086520577b832e0rcp1",
+    "description": "F1® 2020 allows you to create your F1® team for the very first time and race alongside the official teams and drivers. Alternatively, challenge your friends in new split-screen with casual race options for more relaxed racing. Compete on 22 circuits, with current and classic content.",
+    "internalSlug": "F1_2020",
+    "localKey": "f3519fg60f12020f120203dc3d74fbb8",
+    "name": "F1® 2020",
+    "sku": "60da786be741463fbbeb63ed5130bc11",
+    "type": "game"
+  },
+  "f3519fo06f12020schumacherditonpg": {
+    "app": "f3519f3dc3d74fbb8086520577b832e0rcp1",
+    "description": "Celebrate the record-breaking F1® career of the legendary Michael Schumacher. Take to the circuit in four of his most iconic cars and receive exclusive content including Michael Schumacher-themed multiplayer car liveries, helmets, race suits, and a podium celebration emote. You can also embark on your career using a Michael Schumacher driver model. x4 iconic Michael Schumacher cars: 1991 Jordan 191, 1994 Benetton B194, 1995 Benetton B195, 2000 Ferrari F1-2000.  Exclusive Michael Schumacher in-game model, race suits, helmet designs and podium celebration emote.  Unique Schumacher-inspired multiplayer car liveries.",
+    "internalSlug": "F1_2020_Schumacher_Edition_Upgrade",
+    "localKey": "f3519fo06f12020schumacherditonpg",
+    "name": "F1® 2020: Schumacher Edition AOC",
+    "prices": {
+      "basePriceCents": 1899,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "066c24422fc443639f358c4bb3197845",
+    "type": "addon"
+  },
+  "f3519fo63f1202010pitcoinf12coins": {
+    "app": "f3519f3dc3d74fbb8086520577b832e0rcp1",
+    "description": "Buy 10,000 PitCoin, the in-game currency that can be spent on the Formula 1® 2020 Podium Pass and Item Shop. You can use this currency to purchase Car Liveries, Race Suits, Gloves, Helmets, Emotes and Poses from the Item Shop at any time. PitCoin can also be used to purchase the latest series’ VIP Podium Pass, unlocking the ability to earn some awesome customisation content! All PitCoin purchased on one platform may not be redeemable on other platforms. Note: Items purchased with PitCoin do not transfer between Codemasters F1 products.",
+    "internalSlug": "F1_2020_coins_10000",
+    "localKey": "f3519fo63f1202010pitcoinf12coins",
+    "name": "F1 2020 10,000 PitCoin",
+    "sku": "6373b454983a4fe2ada170c303775e90",
+    "type": "addon"
+  },
+  "f3519fo7bf12020f1sevntydioacupgr": {
+    "app": "f3519f3dc3d74fbb8086520577b832e0rcp1",
+    "description": "Celebrate the 70th&nbsp;anniversary of F1® with these unique&nbsp;in-game&nbsp;customisation items - car livery, podium celebration, helmet, race suit, gloves, boots&nbsp;and player badge.",
+    "internalSlug": "F1_2020_Seventy_Edition_Upgrade",
+    "localKey": "f3519fo7bf12020f1sevntydioacupgr",
+    "name": "F1® 2020: F1® Seventy Edition AOC",
+    "prices": {
+      "basePriceCents": 699,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "7b269e62b0f34fa3bc1acabda1cd4967",
+    "type": "addon"
+  },
+  "f3519fobdf12020150pitcoinf1cons5": {
+    "app": "f3519f3dc3d74fbb8086520577b832e0rcp1",
+    "description": "Buy 15,000 PitCoin, the in-game currency that can be spent on the Formula 1® 2020 Podium Pass and Item Shop. You can use this currency to purchase Car Liveries, Race Suits, Gloves, Helmets, Emotes and Poses from the Item Shop at any time. PitCoin can also be used to purchase the latest series’ VIP Podium Pass, unlocking the ability to earn some awesome customisation content! All PitCoin purchased on one platform may not be redeemable on other platforms. Note: Items purchased with PitCoin do not transfer between Codemasters F1 products.",
+    "internalSlug": "F1_2020_coins_15000",
+    "localKey": "f3519fobdf12020150pitcoinf1cons5",
+    "name": "F1 2020 15,000 PitCoin",
+    "sku": "bde5340e4e2d4fe09bab0f8a9251842e",
+    "type": "addon"
+  },
+  "f3519fx5cf12020deluxeschumariton": {
+    "app": "f3519f3dc3d74fbb8086520577b832e0rcp1",
+    "description": "Celebrate the record-breaking F1® career of the legendary Michael Schumacher. Take to the circuit in four of his most iconic cars and receive exclusive content including Michael Schumacher-themed multiplayer car liveries, helmets, race suits, and a podium celebration emote. You can also embark on your career using a Michael Schumacher driver model.  The entire F1® 2020 game and the “Seventy Edition” AOC Content. x4 iconic Michael Schumacher cars: 1991 Jordan 191, 1994 Benetton B194, 1995 Benetton B195, 2000 Ferrari F1-2000. Exclusive Michael Schumacher in-game model, race suits, helmet designs and podium celebration emote.  Unique Schumacher-inspired multiplayer car liveries.",
+    "internalSlug": "F1_2020_Schumacher_Edition",
+    "localKey": "f3519fx5cf12020deluxeschumariton",
+    "name": "F1® 2020 Deluxe Schumacher Edition",
+    "prices": {
+      "basePriceCents": 9399,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "5cef6c44a9314c7595e267196aafa823",
+    "skus": [
+      "60da786be741463fbbeb63ed5130bc11",
+      "066c24422fc443639f358c4bb3197845",
+      "7b269e62b0f34fa3bc1acabda1cd4967",
+      "bde5340e4e2d4fe09bab0f8a9251842e"
+    ],
+    "type": "bundle"
+  },
+  "f3519fxdef12020f1seventyditionsv": {
+    "app": "f3519f3dc3d74fbb8086520577b832e0rcp1",
+    "description": "F1® 2020 allows you to create your F1® team for the very first time and race alongside the official teams and drivers. Alternatively, challenge your friends in new split-screen with casual race options for more relaxed racing. Compete on 22 circuits, with current and classic content. Celebrate the 70th&nbsp;anniversary of F1® with these unique&nbsp;in-game&nbsp;customisation items - car livery, podium celebration, helmet, race suit, gloves, boots&nbsp;and player badge.",
+    "internalSlug": "F1_2020_Seventy_Edition",
+    "localKey": "f3519fxdef12020f1seventyditionsv",
+    "name": "F1® 2020 F1® Seventy Edition",
+    "prices": {
+      "basePriceCents": 7999,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "deb9ce54875f4960bc0845f0294dd44c",
+    "skus": [
+      "60da786be741463fbbeb63ed5130bc11",
+      "7b269e62b0f34fa3bc1acabda1cd4967",
+      "6373b454983a4fe2ada170c303775e90"
+    ],
+    "type": "bundle"
+  },
   "f39390g6cdarksidegnf390548b26c1p": {
     "app": "f39390395ed5444d8e9b23460c8f9152rcp1",
     "description": "DARKSIDERS: GENESIS is an action/adventure that tears its way through hordes of demons, angels, and everything in-between on its way to Hell and back with guns blazing and swords swinging.  Genesis gives players their first look at the world of DARKSIDERS before the events of the original game, as well as introduces the horseman STRIFE.",
@@ -2190,6 +3271,57 @@
       "proSalePriceCents": null
     },
     "sku": "6c8ae46efebc4bd1a7de725bc630ce65",
+    "type": "game"
+  },
+  "f5f970g12konakona8a422a44cc876c2": {
+    "app": "f5f9708a422a44cc876c240cfa07221drcp1",
+    "description": "Northern Canada, 1970. A strange blizzard ravages Atamipek Lake. Step into the shoes of a detective to explore the eerie village, investigate surreal events, and battle the elements to survive. Kona is a chilly interactive tale you won't soon forget.",
+    "internalSlug": "Kona",
+    "localKey": "f5f970g12konakona8a422a44cc876c2",
+    "name": "Kona",
+    "prices": {
+      "basePriceCents": 1499,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "12f3e5611c34478fb0285c6de4f2a8aa",
+    "type": "game"
+  },
+  "f7afcfgcesuperhotsuperhotgamef70": {
+    "app": "f7afcff709e74227a5648aacadf03815rcp1",
+    "description": "Blurring the lines between cautious strategy and unbridled mayhem, SUPERHOT is the FPS in which time moves only when you move. No regenerating health bars. No conveniently placed ammo drops. It's just you, outnumbered and outgunned, grabbing the weapons of fallen enemies to shoot, slice, and maneuver through a hurricane of slow-motion bullets.\nWith its unique, stylized graphics SUPERHOT finally adds something new and disruptive to the FPS genre. SUPERHOT’s polished, minimalist visual language helps you concentrate on the most important - on the fluidity of gameplay and cinematic beauty of the fight.",
+    "internalSlug": "superhot_game",
+    "localKey": "f7afcfgcesuperhotsuperhotgamef70",
+    "name": "SUPERHOT",
+    "prices": {
+      "basePriceCents": 3499,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "ce8a411f4dc2470da828fc259c584aa5",
+    "type": "game"
+  },
+  "ffda0bgacpanzerdragoonremakepzd7": {
+    "app": "ffda0b7e397243f8956f92f89b6902c4rcp1",
+    "description": "A new, remade version of the Panzer Dragoon game - true to the original, with improved graphics and controls, that suit modern gaming standards! On a far, lone planet, you encounter two dragons awaken from the ancient times. Armed with a deadly gun from the past and the guidance of your armored blue dragon,  you must fulfill your destiny and keep the Prototype Dragon from reaching the Tower or die trying.  Features:  - Pilot through seven unbelievably realistic levels ranging from tropical blue ocean cities to intricate subterranean ruins.  - Attack approaching from all sides enemies quickly and without mercy, with improved 360-degree controls and lock-on targeting.",
+    "internalSlug": "PZD",
+    "localKey": "ffda0bgacpanzerdragoonremakepzd7",
+    "name": "Panzer Dragoon: Remake",
+    "prices": {
+      "basePriceCents": 3499,
+      "baseSalePriceCents": null,
+      "countryCode": "CA",
+      "currencyCode": "CAD",
+      "proPriceCents": null,
+      "proSalePriceCents": null
+    },
+    "sku": "ac819b64342841eda35cebfd3a34c769",
     "type": "game"
   }
 }
